@@ -1,0 +1,89 @@
+content:
+- Scanning the input
+- Integer types and operations
+- Increment and decrement
+- Branching statements
+- Declaring a method
+- The main method
+- Functional decomposition
+- Array
+- Iterating over arrays
+- Multidimensional array
+- Arrays as parameters
+- Errors in programs
+- Defining classes
+- Constructor
+- Instance methods
+- Objects
+- Package
+- Getters and setters
+- Inheritance
+- What is an exception
+- Hierarchy of exceptions
+- Exception handling
+- Throwing exceptions
+- NPE
+- Array exceptions
+- Files (1)
+- Input streams
+- Static members
+- LocalDate
+- LocalTime
+- LocalDateTime
+- The keyword super
+- Hiding and overriding
+- Boxing and unboxing
+- Introduction to generic programming
+- What are collections
+- ArrayList
+- Interface
+- Inner classes
+- Nested classes
+- Calling a method
+- Encapsulating object creation
+- Polymorphism
+- Abstract class
+- Template method
+- Factory method
+- Abstract factory
+- Generics and Object
+- Generic methods
+- Printing data
+- Type Bounds
+- The Collections Framework overview
+- The List interface
+- Queue and Stack
+- Comparable
+- Memento
+- Processing strings
+- Output streams
+- Serialization basics
+- Custom serialization
+- Default methods
+- Anonymous classes
+- Command
+- Threads as objects
+- Custom threads
+- Singleton
+- Decorator
+- Facade
+- The Set interface
+- The Map interface
+- Standard functional interfaces
+- Function composition
+- Optional
+- Comparator
+- Functional data processing with streams
+- Stream filtering
+- Map and flatMap
+- Reduction methods
+- Collectors
+- Infinite streams
+- Taking elements
+- Streams of primitives
+- Stream pipelines
+- Parallel streams
+- Grouping collectors
+- Currying
+- The while and do-while loops
+- Command-line arguments (1)

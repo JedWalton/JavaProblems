@@ -1,0 +1,8 @@
+content:
+- Theory
+- Reverse input text
+- Convert to bytes
+- Read into an array
+- FileInputStream class
+- Byte vs character input streams
+- Count words

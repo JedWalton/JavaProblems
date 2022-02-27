@@ -1,0 +1,27 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: Undo/redo (graphic editor)
+- text: Inflate/deflate (file compression util)
+- text: Save/load (computer game)
+- text: Change history (text editor)
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16531#comment
+status: Unchecked
+feedback:
+  message: Please, login to JetBrains Academy to check the task
+  time: Sat, 15 Jan 2022 17:46:16 UTC
+record: -1
