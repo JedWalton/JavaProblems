@@ -9,3 +9,8 @@ content:
 - The first and the last day of a month
 - The last day of a month
 - The n-th day from the end of a month
+- LocalDate class
+- Similar date
+- Working with dates
+- Methods of LocalDate
+- Print dates of a year with an offset

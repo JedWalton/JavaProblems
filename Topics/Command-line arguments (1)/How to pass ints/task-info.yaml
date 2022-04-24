@@ -1,12 +1,10 @@
 type: choice
 is_multiple_choice: false
 options:
-- text: public static void main(String[] args)
-- text: public static void main(int[] args)
 - text: private static void main(String[] args)
+- text: public static void main(String[] args)
 - text: public void main(String[] args)
-message_correct: Congratulations!
-message_incorrect: Incorrect solution
+- text: public static void main(int[] args)
 files:
 - name: src/Task.java
   visible: true

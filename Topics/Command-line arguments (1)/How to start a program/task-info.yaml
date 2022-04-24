@@ -1,13 +1,11 @@
 type: choice
 is_multiple_choice: true
 options:
+- text: <b>java Main</b> starts the program with one command-line argument
+- text: <b>java Main</b> starts the program without command-line arguments
 - text: <b>java Main Main Main Main</b> starts the program with three command-line
     arguments
-- text: <b>java Main</b> starts the program without command-line arguments
 - text: <b>java Main Main</b> starts the program with two command-line arguments
-- text: <b>java Main</b> starts the program with one command-line argument
-message_correct: Congratulations!
-message_incorrect: Incorrect solution
 files:
 - name: src/Task.java
   visible: true

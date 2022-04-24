@@ -5,6 +5,7 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleJvm" value="#JAVA_INTERNAL" />
@@ -149,9 +150,11 @@
             <option value="$PROJECT_DIR$/Topics/Exception handling/Catch all exceptions" />
             <option value="$PROJECT_DIR$/Topics/Exception handling/Converting and multiplying" />
             <option value="$PROJECT_DIR$/Topics/Exception handling/Determine a block for handling exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Improve the program" />
             <option value="$PROJECT_DIR$/Topics/Exception handling/String to double conversion" />
             <option value="$PROJECT_DIR$/Topics/Exception handling/Suitable keywords" />
             <option value="$PROJECT_DIR$/Topics/Exception handling/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Theory (1)" />
             <option value="$PROJECT_DIR$/Topics/Exception handling/What does the code print" />
             <option value="$PROJECT_DIR$/Topics/Exception handling/What exceptions can be handled" />
             <option value="$PROJECT_DIR$/Topics/Executors/Asynchronous email sending" />
@@ -295,11 +298,16 @@
             <option value="$PROJECT_DIR$/Topics/LocalDate/30 years before and after" />
             <option value="$PROJECT_DIR$/Topics/LocalDate/Convert numbers to days" />
             <option value="$PROJECT_DIR$/Topics/LocalDate/Getting information on a day" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/LocalDate class" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Methods of LocalDate" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Print dates of a year with an offset" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Similar date" />
             <option value="$PROJECT_DIR$/Topics/LocalDate/The first and the last day of a month" />
             <option value="$PROJECT_DIR$/Topics/LocalDate/The first day of a month or not" />
             <option value="$PROJECT_DIR$/Topics/LocalDate/The last day of a month" />
             <option value="$PROJECT_DIR$/Topics/LocalDate/The n-th day from the end of a month" />
             <option value="$PROJECT_DIR$/Topics/LocalDate/Theory" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Working with dates" />
             <option value="$PROJECT_DIR$/Topics/LocalDateTime/Add 11 hours and print the date" />
             <option value="$PROJECT_DIR$/Topics/LocalDateTime/Add days and subtract hours" />
             <option value="$PROJECT_DIR$/Topics/LocalDateTime/Adding N minutes" />
@@ -406,6 +414,18 @@
             <option value="$PROJECT_DIR$/Topics/Reduction methods/Sum of divisors" />
             <option value="$PROJECT_DIR$/Topics/Reduction methods/The count operation" />
             <option value="$PROJECT_DIR$/Topics/Reduction methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Reflection basics/Declared fields" />
+            <option value="$PROJECT_DIR$/Topics/Reflection basics/Field count" />
+            <option value="$PROJECT_DIR$/Topics/Reflection basics/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Card name validation and identification" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Check IP address" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Check the clock time" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Check the date" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Ignoring spaces" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Illegal identifiers" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Safe password" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Vehicle registration number" />
             <option value="$PROJECT_DIR$/Topics/Scanning the input/Guest list of a hotel" />
             <option value="$PROJECT_DIR$/Topics/Scanning the input/Hiring a chef" />
             <option value="$PROJECT_DIR$/Topics/Scanning the input/Print strings in the reverse order" />
@@ -489,8 +509,6 @@
             <option value="$PROJECT_DIR$/Topics/The keyword super/Theory" />
             <option value="$PROJECT_DIR$/Topics/The main method/Print  We are robots_" />
             <option value="$PROJECT_DIR$/Topics/The main method/Theory" />
-            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/The smallest value" />
-            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Theory" />
             <option value="$PROJECT_DIR$/Topics/Thread management/Calculate the number of distinct characters" />
             <option value="$PROJECT_DIR$/Topics/Thread management/Join" />
             <option value="$PROJECT_DIR$/Topics/Thread management/Ordering the execution of threads" />
@@ -524,10 +542,26 @@
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Throw an unchecked exception" />
             <option value="$PROJECT_DIR$/Topics/Type Bounds/Number holder" />
             <option value="$PROJECT_DIR$/Topics/Type Bounds/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Unit testing with JUnit/An empty test" />
+            <option value="$PROJECT_DIR$/Topics/Unit testing with JUnit/Annotation" />
+            <option value="$PROJECT_DIR$/Topics/Unit testing with JUnit/Assertion" />
+            <option value="$PROJECT_DIR$/Topics/Unit testing with JUnit/Failed assertion" />
+            <option value="$PROJECT_DIR$/Topics/Unit testing with JUnit/Test driven development" />
+            <option value="$PROJECT_DIR$/Topics/Unit testing with JUnit/Theory" />
             <option value="$PROJECT_DIR$/Topics/What are collections/Initialize a collection" />
             <option value="$PROJECT_DIR$/Topics/What are collections/Theory" />
             <option value="$PROJECT_DIR$/Topics/What is an exception/Avoid division by zero" />
             <option value="$PROJECT_DIR$/Topics/What is an exception/Theory" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Account" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Books as strings" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Class hierarchy" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Convert persons and patients to string" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Convert vehicles and cars to string" />
+            <option value="$PROJECT_DIR$/Topics/toString()/String representation" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Theory" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Time as a string" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Users as strings" />
+            <option value="$PROJECT_DIR$/Topics/toString()/toString method" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>

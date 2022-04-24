@@ -4,6 +4,7 @@ buildscript {
     }
 }
 
+
 subprojects {
     apply plugin: 'application'
     apply plugin: 'java'

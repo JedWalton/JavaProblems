@@ -85,5 +85,8 @@ content:
 - Parallel streams
 - Grouping collectors
 - Currying
-- The while and do-while loops
 - Command-line arguments (1)
+- Unit testing with JUnit
+- Reflection basics
+- toString()
+- Regexes in programs
