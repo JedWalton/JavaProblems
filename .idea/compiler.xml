@@ -85,6 +85,7 @@
         <module name="Java_Problems.Topics-Interface-Account_Service.main" />
         <module name="Java_Problems.Topics-Exception_handling-Determine_a_block_for_handling_exceptions.main" />
         <module name="Java_Problems.Topics-Facade-Smart_house.test" />
+        <module name="Java_Problems.Topics-The_utility_class_Collections-Non-existing_methods.main" />
         <module name="Java_Problems.Topics-Multidimensional_array-The_third_row.test" />
         <module name="Java_Problems.Topics-Reduction_methods-Reduce-like_operations.test" />
         <module name="Java_Problems.Topics-Singleton-A_singleton_has.test" />
@@ -201,6 +202,7 @@
         <module name="Java_Problems.Topics-Bean_validation-Add_two_annotations-build-generated-sources-annotationProcessor-java.test" />
         <module name="Java_Problems.Topics-Taking_elements-The_behavior_of_a_method.test" />
         <module name="Java_Problems.Topics-Exception_handling-Converting_and_multiplying.test" />
+        <module name="Java_Problems.Topics-The_utility_class_Collections-Non-existing_methods.test" />
         <module name="Java_Problems.Topics-Exception_handling-What_does_the_code_print.test" />
         <module name="Java_Problems.Topics-Defining_classes-Inner_boxes.main" />
         <module name="Java_Problems.Topics-Facade-A_disadvantage.main" />
@@ -651,6 +653,7 @@
         <module name="Java_Problems.Topics-Decorator-Advantages.test" />
         <module name="Java_Problems.Topics-Custom_serialization-Fix_the_bank_account.main" />
         <module name="Java_Problems.Topics-The_keyword_super-Fix_the_non-compiled_hierarchy.main" />
+        <module name="Java_Problems.Topics-The_utility_class_Collections-Multiple_swaps.test" />
         <module name="Java_Problems.Topics-Anonymous_classes-What_about_context_.main" />
         <module name="Java_Problems.Topics-Inner_classes-Christmas_tree.test" />
         <module name="Java_Problems.Topics-The_List_interface-Theory.test" />
@@ -857,6 +860,7 @@
         <module name="Java_Problems.Topics-Decorator-Breakfast_Decorator.test" />
         <module name="Java_Problems.Topics-Functional_decomposition-Decompose_a_math_function.main" />
         <module name="Java_Problems.Topics-Polymorphism-Publication_and_its_subclasses.test" />
+        <module name="Java_Problems.Topics-The_utility_class_Collections-Multiple_swaps.main" />
         <module name="Java_Problems.Topics-Unit_testing_with_JUnit-Failed_assertion.test" />
         <module name="Java_Problems.Topics-Abstract_factory-Burgers.test" />
         <module name="Java_Problems.Topics-Singleton-Complete_a_class.test" />
@@ -969,6 +973,7 @@
         <module name="Java_Problems.Topics-Multidimensional_array-Fill_the_matrix_by_numbers.test" />
         <module name="Java_Problems.Topics-The_keyword_super-Employees.main" />
         <module name="Java_Problems.Topics-Optional-What_is_Optional.test" />
+        <module name="Java_Problems.Topics-The_utility_class_Collections-An_uncompiled_statement.main" />
         <module name="Java_Problems.Topics-Currying-Applying_a_number.main" />
         <module name="Java_Problems.Topics-The_Map_interface-Modifying_a_map.main" />
         <module name="Java_Problems.Topics-Getters_and_setters-Getting_the_fullname.main" />
@@ -1098,6 +1103,7 @@
         <module name="Java_Problems.Topics-Calling_a_method-Theory.test" />
         <module name="Java_Problems.Topics-Currying-Applying_a_number.test" />
         <module name="Java_Problems.Topics-Generics_and_Object-Correct_the_usage_of_non-generic_class.test" />
+        <module name="Java_Problems.Topics-The_utility_class_Collections-An_uncompiled_statement.test" />
         <module name="Java_Problems.Topics-toString__-String_representation.test" />
         <module name="Java_Problems.Topics-Declaring_a_method-Theory.test" />
         <module name="Java_Problems.Topics-Memento-Mutations.test" />
@@ -1673,8 +1679,11 @@
       <module name="Java_Problems.Topics-The_Set_interface-Removing_elements.main" target="11" />
       <module name="Java_Problems.Topics-The_Set_interface-Strict_superset.main" target="11" />
       <module name="Java_Problems.Topics-The_Set_interface-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-The_utility_class_Collections-An_uncompiled_statement.main" target="11" />
       <module name="Java_Problems.Topics-The_utility_class_Collections-Collection_class_basics.main" target="11" />
       <module name="Java_Problems.Topics-The_utility_class_Collections-Frequency_of_characters.main" target="11" />
+      <module name="Java_Problems.Topics-The_utility_class_Collections-Multiple_swaps.main" target="11" />
+      <module name="Java_Problems.Topics-The_utility_class_Collections-Non-existing_methods.main" target="11" />
       <module name="Java_Problems.Topics-The_utility_class_Collections-Sorting_sequences.main" target="11" />
       <module name="Java_Problems.Topics-The_utility_class_Collections-The_first_index_of_a_sublist.main" target="11" />
       <module name="Java_Problems.Topics-The_utility_class_Collections-Theory.main" target="11" />

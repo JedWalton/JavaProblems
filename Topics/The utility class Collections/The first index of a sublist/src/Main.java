@@ -9,7 +9,6 @@ class Main {
         Scanner scanner = new Scanner(System.in);
         List<String> list = List.of(scanner.nextLine().split("\\s"));
         List<String> list1 = List.of(scanner.nextLine().split("\\s"));
-        System.out.println(Collections.indexOfSubList(list, list1) + " " +
-                Collections.lastIndexOfSubList(list, list1));
+        System.out.println(Collections.indexOfSubList(list, list1) + " " + Collections.lastIndexOfSubList(list, list1));
     }
 }
