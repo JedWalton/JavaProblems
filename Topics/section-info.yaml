@@ -90,3 +90,6 @@ content:
 - Reflection basics
 - toString()
 - Regexes in programs
+- Bean validation
+- Comparing dates and time
+- The utility class Collections

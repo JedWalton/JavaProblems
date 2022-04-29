@@ -1,6 +1,1737 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="11" />
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.22/9c08ea24c6eb714e2d6170e8122c069a0ba9aacf/lombok-1.18.22.jar" />
+        </processorPath>
+        <module name="Java_Problems.Topics-Abstract_class-Theory.test" />
+        <module name="Java_Problems.Topics-Custom_serialization-Custom_serialization_behavior.test" />
+        <module name="Java_Problems.Topics-Standard_functional_interfaces-Theory.test" />
+        <module name="Java_Problems.Topics-LocalDate-The_first_and_the_last_day_of_a_month.main" />
+        <module name="Java_Problems.Topics-Stream_filtering-Numbers_filtering.main" />
+        <module name="Java_Problems.Topics-Processing_strings-Create_an_euphonious_word.test" />
+        <module name="Java_Problems.Topics-Command-line_arguments__1_-Basic_calculator.test" />
+        <module name="Java_Problems.Topics-Throwing_exceptions-Throw_an_IOException.test" />
+        <module name="Java_Problems.Topics-Defining_classes-Accounts.main" />
+        <module name="Java_Problems.Topics-Taking_elements-The_behavior_of_a_method.main" />
+        <module name="Java_Problems.Topics-Collectors-Сollect_parameter.main" />
+        <module name="Java_Problems.Topics-Exception_handling-Suitable_keywords.main" />
+        <module name="Java_Problems.Topics-Files-Theory.test" />
+        <module name="Java_Problems.Topics-Exception_handling-Catch_all_exceptions.main" />
+        <module name="Java_Problems.Topics-Template_method-Theory.test" />
+        <module name="Java_Problems.Topics-Thread_synchronization-Multithreaded_counter.main" />
+        <module name="Java_Problems.Topics-Exception_handling-What_does_the_code_print.main" />
+        <module name="Java_Problems.Topics-Files-Are_siblings.test" />
+        <module name="Java_Problems.Topics-Default_methods-Default_method's_body_.test" />
+        <module name="Java_Problems.Topics-Multidimensional_array-The_star_figure.main" />
+        <module name="Java_Problems.Topics-Processing_strings-The_lucky_ticket.main" />
+        <module name="Java_Problems.Topics-Custom_exceptions-Checked_exception_with_constructor.main" />
+        <module name="Java_Problems.Topics-Introduction_to_generic_programming-Pastry_packing_optimization.test" />
+        <module name="Java_Problems.Topics-Executors-Theory.main" />
+        <module name="Java_Problems.Topics-Functional_interfaces-Ternary_predicate.test" />
+        <module name="Java_Problems.Topics-Printing_data-The_result_of_a_Tic-Tac-Toe_game.main" />
+        <module name="Java_Problems.Topics-Comparing_dates_and_time-What_is_true.test" />
+        <module name="Java_Problems.Topics-Processing_strings-Move_the_first_N_characters.test" />
+        <module name="Java_Problems.Topics-Infinite_streams-Select_output.main" />
+        <module name="Java_Problems.Topics-Polymorphism-Find_mistake.test" />
+        <module name="Java_Problems.Topics-Factory_method-Robot.main" />
+        <module name="Java_Problems.Topics-Parallel_streams-The_ordered_sequence.main" />
+        <module name="Java_Problems.Topics-LocalDateTime-Theory.test" />
+        <module name="Java_Problems.Topics-Command-Forex_Broker.main" />
+        <module name="Java_Problems.Topics-Objects-Change_identities.test" />
+        <module name="Java_Problems.Topics-Standard_functional_interfaces-Functional_interfaces_utilization.test" />
+        <module name="Java_Problems.Topics-Generic_methods-Check_for_null.test" />
+        <module name="Java_Problems.Topics-NPE-Return_empty_string_when_argument_is_null.test" />
+        <module name="Java_Problems.Topics-Currying-Curried_function.test" />
+        <module name="Java_Problems.Topics-Custom_threads-Statements_about_starting_threads.main" />
+        <module name="Java_Problems.Topics-Function_composition-Determine_the_result.main" />
+        <module name="Java_Problems.Topics-Memento-Theory.test" />
+        <module name="Java_Problems.Topics-Memento-Visualization_of_state.test" />
+        <module name="Java_Problems.Topics-Factory_method-Theory.test" />
+        <module name="Java_Problems.Topics-Encapsulating_object_creation-Static_factory_methods_for_Time.main" />
+        <module name="Java_Problems.Topics-Polymorphism-Theory.main" />
+        <module name="Java_Problems.Topics-Queue_and_Stack-The_LIFO_principle_in_action.test" />
+        <module name="Java_Problems.Topics-Regexes_in_programs-Vehicle_registration_number.test" />
+        <module name="Java_Problems.Topics-Unit_testing_with_JUnit-An_empty_test.main" />
+        <module name="Java_Problems.Topics-Factory_method-Motors.test" />
+        <module name="Java_Problems.Topics-Type_Bounds-Theory.main" />
+        <module name="Java_Problems.Topics-Exception_handling-Theory__1_.main" />
+        <module name="Java_Problems.Topics-Memento-Undo_and_redo.test" />
+        <module name="Java_Problems.Topics-The_Map_interface-Displaying_pairs.main" />
+        <module name="Java_Problems.Topics-Thread_synchronization-What_is_wrong.test" />
+        <module name="Java_Problems.Topics-Boxing_and_unboxing-Theory.main" />
+        <module name="Java_Problems.Topics-Memento-Components.test" />
+        <module name="Java_Problems.Topics-Hierarchy_of_exceptions-Theory.main" />
+        <module name="Java_Problems.Topics-Decorator-Disadvantages.main" />
+        <module name="Java_Problems.Topics-The_utility_class_Collections-Sorting_sequences.main" />
+        <module name="Java_Problems.Topics-Stream_pipelines-The_ten_most_frequent_words.main" />
+        <module name="Java_Problems.Topics-Array-Initializing_an_array_of_longs.test" />
+        <module name="Java_Problems.Topics-Optional-The_address_book.main" />
+        <module name="Java_Problems.Topics-Singleton-Printing_data_of_a_singleton.test" />
+        <module name="Java_Problems.Topics-Standard_functional_interfaces-An_infinite_numbers_supplier.test" />
+        <module name="Java_Problems.Topics-Grouping_collectors-Teeing_collector_features.main" />
+        <module name="Java_Problems.Topics-The_Map_interface-Theory.test" />
+        <module name="Java_Problems.Topics-The_Set_interface-Creating_a_set.main" />
+        <module name="Java_Problems.Topics-Factory_method-Laptop_store.test" />
+        <module name="Java_Problems.Topics-LocalDate-Print_dates_of_a_year_with_an_offset.main" />
+        <module name="Java_Problems.Topics-Anonymous_classes-String_reverser.main" />
+        <module name="Java_Problems.Topics-Declaring_a_method-Sum_of_numbers_in_the_range.main" />
+        <module name="Java_Problems.Topics-Processing_strings-Number_of_occurrences.main" />
+        <module name="Java_Problems.Topics-Functional_data_processing_with_streams-Count_passwords.main" />
+        <module name="Java_Problems.Topics-The_keyword_super-Theory.main" />
+        <module name="Java_Problems.Topics-Interface-Account_Service.main" />
+        <module name="Java_Problems.Topics-Exception_handling-Determine_a_block_for_handling_exceptions.main" />
+        <module name="Java_Problems.Topics-Facade-Smart_house.test" />
+        <module name="Java_Problems.Topics-Multidimensional_array-The_third_row.test" />
+        <module name="Java_Problems.Topics-Reduction_methods-Reduce-like_operations.test" />
+        <module name="Java_Problems.Topics-Singleton-A_singleton_has.test" />
+        <module name="Java_Problems.Topics-Comparator-Odd_and_even.test" />
+        <module name="Java_Problems.Topics-Constructor-Account_and_its_owner.main" />
+        <module name="Java_Problems.Topics-toString__-Convert_vehicles_and_cars_to_string.main" />
+        <module name="Java_Problems.Topics-LocalDate-2_weeks_after.main" />
+        <module name="Java_Problems.Topics-Stream_pipelines-Possible_pipelines.test" />
+        <module name="Java_Problems.Topics-Abstract_factory-Phone_factory.test" />
+        <module name="Java_Problems.Topics-NPE-Theory.main" />
+        <module name="Java_Problems.Topics-The_Map_interface-Determine_values_of_variables.main" />
+        <module name="Java_Problems.Topics-NPE-Avoid_NPE.main" />
+        <module name="Java_Problems.Topics-Instance_methods-Counter.main" />
+        <module name="Java_Problems.Topics-The_main_method-Theory.main" />
+        <module name="Java_Problems.Topics-Generics_and_Object-Correct_the_usage_of_non-generic_class.main" />
+        <module name="Java_Problems.Topics-The_utility_class_Collections-Theory.test" />
+        <module name="Java_Problems.Topics-ArrayList-Concat_positive_numbers.main" />
+        <module name="Java_Problems.Topics-Hierarchy_of_exceptions-Base_class.main" />
+        <module name="Java_Problems.Topics-Regexes_in_programs-Ignoring_spaces.main" />
+        <module name="Java_Problems.Topics-Anonymous_classes-An_anonymous_class_with_three_methods.test" />
+        <module name="Java_Problems.Topics-Functional_interfaces-Theory.main" />
+        <module name="Java_Problems.Topics-Array-Theory.test" />
+        <module name="Java_Problems.Topics-Factory_method-Burger_store.test" />
+        <module name="Java_Problems.Topics-Processing_strings-Compression_algorithm.test" />
+        <module name="Java_Problems.Topics-Lambda_expressions-Expression_closure.main" />
+        <module name="Java_Problems.Topics-Singleton-Bad_singleton.main" />
+        <module name="Java_Problems.Topics-The_Map_interface-Counting_words.main" />
+        <module name="Java_Problems.Topics-Currying-Theory.test" />
+        <module name="Java_Problems.Topics-Streams_of_primitives-A_stream_without_zero.main" />
+        <module name="Java_Problems.Topics-Declaring_a_method-The_sign_of_a_number.test" />
+        <module name="Java_Problems.Topics-Defining_classes-Inner_boxes.test" />
+        <module name="Java_Problems.Topics-Currying-Types_of_a_curried_function.main" />
+        <module name="Java_Problems.Topics-Default_methods-Diamond_problem.main" />
+        <module name="Java_Problems.Topics-Input_streams-Count_words.test" />
+        <module name="Java_Problems.Topics-Iterating_over_arrays-Sum_array_elements_greater_than_a_value.main" />
+        <module name="Java_Problems.Topics-Reduction_methods-Range_quadratic_sum.main" />
+        <module name="Java_Problems.Topics-Stream_pipelines-Using_streams_many_times.main" />
+        <module name="Java_Problems.Topics-Thread_synchronization-What_is_incorrect_about_monitors.main" />
+        <module name="Java_Problems.Topics-Thread_management-Theory.test" />
+        <module name="Java_Problems.Topics-Command-Remote_Controller.main" />
+        <module name="Java_Problems.Topics-Functional_data_processing_with_streams-A_sorted_stream.main" />
+        <module name="Java_Problems.Topics-Reflection_basics-Field_count.test" />
+        <module name="Java_Problems.Topics-Function_composition-Theory.main" />
+        <module name="Java_Problems.Topics-Errors_in_programs-Print_the_age.test" />
+        <module name="Java_Problems.Topics-Increment_and_decrement-Theory.test" />
+        <module name="Java_Problems.Topics-Standard_functional_interfaces-Ternary_operator.test" />
+        <module name="Java_Problems.Topics-Command-line_arguments__1_-Parameters_and_their_values.test" />
+        <module name="Java_Problems.Topics-Custom_serialization-Initialize_transient_fields.main" />
+        <module name="Java_Problems.Topics-Instance_methods-In_a_box.main" />
+        <module name="Java_Problems.Topics-Comparable-Theory.main" />
+        <module name="Java_Problems.Topics-Bean_validation-Add_two_annotations-build-test-results.test" />
+        <module name="Java_Problems.Topics-Currying-String_concatenation.main" />
+        <module name="Java_Problems.Topics-Integer_types_and_operations-How_many_nuts_each_squirrel_will_get.main" />
+        <module name="Java_Problems.Topics-Map_and_flatMap-Maximum_of_the_absolute_values.test" />
+        <module name="Java_Problems.Topics-Interface-Compact_strings_with_AsciiCharSequence.main" />
+        <module name="Java_Problems.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.main" />
+        <module name="Java_Problems.Topics-Multidimensional_array-Theory.test" />
+        <module name="Java_Problems.Topics-Custom_threads-Multiple_threads.main" />
+        <module name="Java_Problems.Topics-Thread_management-Calculate_the_number_of_distinct_characters.test" />
+        <module name="Java_Problems.Topics-Branching_statements-Even_or_odd.test" />
+        <module name="Java_Problems.Topics-Hiding_and_overriding-Theory.test" />
+        <module name="Java_Problems.Topics-Command-line_arguments__1_-How_to_start_a_program.test" />
+        <module name="Java_Problems.Topics-Reduction_methods-Theory.main" />
+        <module name="Java_Problems.Topics-Custom_serialization-Included_fields.main" />
+        <module name="Java_Problems.Topics-Regexes_in_programs-Theory.main" />
+        <module name="Java_Problems.Topics-Parallel_streams-Parallel_reducing.main" />
+        <module name="Java_Problems.Topics-Custom_threads-Possible_order_of_the_output_strings.main" />
+        <module name="Java_Problems.Topics-Optional-Check_an_Optional_value.main" />
+        <module name="Java_Problems.Topics-Template_method-Template_Method.main" />
+        <module name="Java_Problems.Topics-Command-line_arguments__1_-Get_the_game_mode.main" />
+        <module name="Java_Problems.Topics-Reduction_methods-The_count_operation.main" />
+        <module name="Java_Problems.Topics-Command-line_arguments__1_-How_to_pass_ints.main" />
+        <module name="Java_Problems.Topics-Memento-Downsides.main" />
+        <module name="Java_Problems.Topics-Constructor-Account.test" />
+        <module name="Java_Problems.Topics-Currying-Statements.main" />
+        <module name="Java_Problems.Topics-Comparing_dates_and_time-Is_the_date_between_the_two_other_dates.main" />
+        <module name="Java_Problems.Topics-Command-line_arguments__1_-Theory.main" />
+        <module name="Java_Problems.Topics-Defining_classes-Theory.main" />
+        <module name="Java_Problems.Topics-Functional_data_processing_with_streams-Finding_max_and_min_elements.main" />
+        <module name="Java_Problems.Topics-Command-line_arguments__1_-The_index_of_an_argument.main" />
+        <module name="Java_Problems.Topics-The_Map_interface-Getting_submaps.test" />
+        <module name="Java_Problems.Topics-Parallel_streams-Fix_the_sorting_order.main" />
+        <module name="Java_Problems.Topics-Function_composition-What_function_is_executed_first.test" />
+        <module name="Java_Problems.Topics-Stream_filtering-Omitting_long_strings.main" />
+        <module name="Java_Problems.Topics-LocalTime-Some_hours_and_minutes_ago.test" />
+        <module name="Java_Problems.Topics-Grouping_collectors-Theory.main" />
+        <module name="Java_Problems.Topics-The_Map_interface-Basics_of_Maps.main" />
+        <module name="Java_Problems.Topics-LocalDate-Working_with_dates.main" />
+        <module name="Java_Problems.Topics-Currying-Returning_functions.test" />
+        <module name="Java_Problems.Topics-NPE-Return_empty_string_when_argument_is_null.main" />
+        <module name="Java_Problems.Topics-Type_Bounds-Theory.test" />
+        <module name="Java_Problems.Topics-Inner_classes-Theory.main" />
+        <module name="Java_Problems.Topics-Custom_threads-Statements_about_starting_threads.test" />
+        <module name="Java_Problems.Topics-Collectors-Сollect_parameter.test" />
+        <module name="Java_Problems.Topics-Getters_and_setters-Account.test" />
+        <module name="Java_Problems.Topics-Hierarchy_of_exceptions-Theory.test" />
+        <module name="Java_Problems.Topics-Exception_handling-Catch_all_exceptions.test" />
+        <module name="Java_Problems.Topics-Polymorphism-Find_mistake.main" />
+        <module name="Java_Problems.Topics-Abstract_factory-Burgers.main" />
+        <module name="Java_Problems.Topics-Constructor-Account_and_its_owner.test" />
+        <module name="Java_Problems.Topics-Branching_statements-Bus_tour.main" />
+        <module name="Java_Problems.Topics-toString__-Books_as_strings.test" />
+        <module name="Java_Problems.Topics-Executors-Asynchronous_email_sending.main" />
+        <module name="Java_Problems.Topics-Files-Are_siblings.main" />
+        <module name="Java_Problems.Topics-Regexes_in_programs-Check_IP_address.main" />
+        <module name="Java_Problems.Topics-Function_composition-Disjunct_all.test" />
+        <module name="Java_Problems.Topics-Interface-Account_Service.test" />
+        <module name="Java_Problems.Topics-Integer_types_and_operations-Theory.main" />
+        <module name="Java_Problems.Topics-Package-Theory.test" />
+        <module name="Java_Problems.Topics-Command-line_arguments__1_-Basic_calculator.main" />
+        <module name="Java_Problems.Topics-What_are_collections-Theory.main" />
+        <module name="Java_Problems.Topics-toString__-toString_method.test" />
+        <module name="Java_Problems.Topics-Decorator-What_does_the_code_print.main" />
+        <module name="Java_Problems.Topics-Bean_validation-Add_two_annotations-build-generated-sources-annotationProcessor-java.test" />
+        <module name="Java_Problems.Topics-Taking_elements-The_behavior_of_a_method.test" />
+        <module name="Java_Problems.Topics-Exception_handling-Converting_and_multiplying.test" />
+        <module name="Java_Problems.Topics-Exception_handling-What_does_the_code_print.test" />
+        <module name="Java_Problems.Topics-Defining_classes-Inner_boxes.main" />
+        <module name="Java_Problems.Topics-Facade-A_disadvantage.main" />
+        <module name="Java_Problems.Topics-Function_composition-Determine_the_result.test" />
+        <module name="Java_Problems.Topics-LocalDateTime-Whole_hours_between_two_date-time_pairs.main" />
+        <module name="Java_Problems.Topics-Singleton-Criticism.main" />
+        <module name="Java_Problems.Topics-Throwing_exceptions-Throw_an_IOException.main" />
+        <module name="Java_Problems.Topics-Files__1_-Theory.test" />
+        <module name="Java_Problems.Topics-Processing_strings-Create_an_euphonious_word.main" />
+        <module name="Java_Problems.Topics-Declaring_a_method-Theory.main" />
+        <module name="Java_Problems.Topics-Command-Theory.main" />
+        <module name="Java_Problems.Topics-Inheritance-Classes_for_Hospital.main" />
+        <module name="Java_Problems.Topics-Optional-Avoiding_exceptions.main" />
+        <module name="Java_Problems.Topics-Unit_testing_with_JUnit-Annotation.test" />
+        <module name="Java_Problems.Topics-Facade-Theory.test" />
+        <module name="Java_Problems.Topics-Arrays_as_parameters-Get_first_and_last_elements.test" />
+        <module name="Java_Problems.Topics-LocalDate-Methods_of_LocalDate.test" />
+        <module name="Java_Problems.Topics-Currying-Curried_function.main" />
+        <module name="Java_Problems.Topics-Stream_filtering-Numbers_filtering.test" />
+        <module name="Java_Problems.Topics-Inner_classes-New_Inner_class.main" />
+        <module name="Java_Problems.Topics-The_utility_class_Collections-Frequency_of_characters.test" />
+        <module name="Java_Problems.Topics-Boxing_and_unboxing-Theory.test" />
+        <module name="Java_Problems.Topics-Objects-Change_identities.main" />
+        <module name="Java_Problems.Topics-Exception_handling-Theory__1_.test" />
+        <module name="Java_Problems.Topics-Factory_method-Clocks.test" />
+        <module name="Java_Problems.Topics-Command-Stock_Broker.test" />
+        <module name="Java_Problems.Topics-Custom_exceptions-Theory.main" />
+        <module name="Java_Problems.Topics-Multidimensional_array-The_star_figure.test" />
+        <module name="Java_Problems.Topics-Taking_elements-The_name_of_a_method.test" />
+        <module name="Java_Problems.Topics-Multidimensional_array-Fill_the_matrix_by_numbers.main" />
+        <module name="Java_Problems.Topics-The_Map_interface-Existing_implementations.main" />
+        <module name="Java_Problems.Topics-Standard_functional_interfaces-Accounts.test" />
+        <module name="Java_Problems.Topics-Defining_classes-Representing_time_as_a_class.main" />
+        <module name="Java_Problems.Topics-LocalDate-The_first_day_of_a_month_or_not.test" />
+        <module name="Java_Problems.Topics-Arrays_as_parameters-Adding_values.test" />
+        <module name="Java_Problems.Topics-Custom_exceptions-Checked_exception_with_constructor.test" />
+        <module name="Java_Problems.Topics-LocalDate-The_first_and_the_last_day_of_a_month.test" />
+        <module name="Java_Problems.Topics-Thread_synchronization-Two_methods,_two_statements.main" />
+        <module name="Java_Problems.Topics-Type_Bounds-Number_holder.main" />
+        <module name="Java_Problems.Topics-Thread_synchronization-Multithreaded_counter.test" />
+        <module name="Java_Problems.Topics-Collectors-ASCII_Art.main" />
+        <module name="Java_Problems.Topics-The_utility_class_Collections-The_first_index_of_a_sublist.main" />
+        <module name="Java_Problems.Topics-Singleton-Complete_the_eager_singleton.test" />
+        <module name="Java_Problems.Topics-Currying-Theory.main" />
+        <module name="Java_Problems.Topics-Queue_and_Stack-Theory.main" />
+        <module name="Java_Problems.Topics-Optional-Check_an_Optional_value.test" />
+        <module name="Java_Problems.Topics-Functional_data_processing_with_streams-A_sorted_stream.test" />
+        <module name="Java_Problems.Topics-Grouping_collectors-Counting_clicks.test" />
+        <module name="Java_Problems.Topics-Command-line_arguments__1_-Parameters_and_their_values.main" />
+        <module name="Java_Problems.Topics-Comparable-Theory.test" />
+        <module name="Java_Problems.Topics-Bean_validation-Add_two_annotations-build-test-results.main" />
+        <module name="Java_Problems.Topics-Stream_pipelines-Using_streams_many_times.test" />
+        <module name="Java_Problems.Topics-Reduction_methods-Range_quadratic_sum.test" />
+        <module name="Java_Problems.Topics-Constructor-Theory.main" />
+        <module name="Java_Problems.Topics-Getters_and_setters-Getting_the_fullname.test" />
+        <module name="Java_Problems.Topics-Reflection_basics-Field_count.main" />
+        <module name="Java_Problems.Topics-Currying-String_concatenation.test" />
+        <module name="Java_Problems.Topics-Boxing_and_unboxing-Only_true_or_false.main" />
+        <module name="Java_Problems.Topics-Facade-Smart_house.main" />
+        <module name="Java_Problems.Topics-Multidimensional_array-The_third_row.main" />
+        <module name="Java_Problems.Topics-Functional_interfaces-A_lambda_expression_with_seven_arguments.main" />
+        <module name="Java_Problems.Topics-Reduction_methods-Theory.test" />
+        <module name="Java_Problems.Topics-Processing_strings-Number_of_occurrences.test" />
+        <module name="Java_Problems.Topics-Functional_decomposition-Theory.main" />
+        <module name="Java_Problems.Topics-Integer_types_and_operations-How_many_nuts_each_squirrel_will_get.test" />
+        <module name="Java_Problems.Topics-The_Map_interface-Kidnapper_of_Ice_cream.test" />
+        <module name="Java_Problems.Topics-Functional_interfaces-Theory.test" />
+        <module name="Java_Problems.Topics-Currying-Multifunctional_mapper.test" />
+        <module name="Java_Problems.Topics-Factory_method-Robot_factory.main" />
+        <module name="Java_Problems.Topics-Lambda_expressions-Parts_of code.main" />
+        <module name="Java_Problems.Topics-Command-Forex_Broker.test" />
+        <module name="Java_Problems.Topics-Exception_handling-What_exceptions_can_be_handled.main" />
+        <module name="Java_Problems.Topics-Scanning_the_input-Theory.main" />
+        <module name="Java_Problems.Topics-Function_composition-How_to_compose_predicates_together.main" />
+        <module name="Java_Problems.Topics-Default_methods-What_is_the_reason_for_default_methods_.test" />
+        <module name="Java_Problems.Topics-Functional_data_processing_with_streams-Finding_max_and_min_elements.test" />
+        <module name="Java_Problems.Topics-The_main_method-Theory.test" />
+        <module name="Java_Problems.Topics-Comparing_dates_and_time-Is_the_date_between_the_two_other_dates.test" />
+        <module name="Java_Problems.Topics-Abstract_factory-Theory.test" />
+        <module name="Java_Problems.Topics-LocalDateTime-Theory.main" />
+        <module name="Java_Problems.Topics-Bean_validation-Add_two_annotations-build-tmp.main" />
+        <module name="Java_Problems.Topics-Instance_methods-Counter.test" />
+        <module name="Java_Problems.Topics-Comparator-Sort_users.main" />
+        <module name="Java_Problems.Topics-Singleton-Complete_a_class.main" />
+        <module name="Java_Problems.Topics-Memento-Visualization_of_state.main" />
+        <module name="Java_Problems.Topics-Regexes_in_programs-Check_the_date.test" />
+        <module name="Java_Problems.Topics-Function_composition-Theory.test" />
+        <module name="Java_Problems.Topics-Interface-Mutable_geometric_shapes.test" />
+        <module name="Java_Problems.Topics-Constructor-Account.main" />
+        <module name="Java_Problems.Topics-Memento-Downsides.test" />
+        <module name="Java_Problems.Topics-LocalDate-Theory.test" />
+        <module name="Java_Problems.Topics-Template_method-Template_Method.test" />
+        <module name="Java_Problems.Topics-Reduction_methods-Statements.test" />
+        <module name="Java_Problems.Topics-Regexes_in_programs-Theory.test" />
+        <module name="Java_Problems.Topics-Custom_serialization-Included_fields.test" />
+        <module name="Java_Problems.Topics-NPE-Theory.test" />
+        <module name="Java_Problems.Topics-Array-Theory.main" />
+        <module name="Java_Problems.Topics-Comparing_dates_and_time-Is_after,_is_before.main" />
+        <module name="Java_Problems.Topics-Exception_handling-Theory.test" />
+        <module name="Java_Problems.Topics-Branching_statements-Even_or_odd.main" />
+        <module name="Java_Problems.Topics-Standard_functional_interfaces-Theory.main" />
+        <module name="Java_Problems.Topics-Decorator-What_does_the_code_print.test" />
+        <module name="Java_Problems.Topics-ArrayList-Creating_list.main" />
+        <module name="Java_Problems.Topics-Thread_management-Waiting_for_a_thread.test" />
+        <module name="Java_Problems.Topics-Processing_strings-Theory.main" />
+        <module name="Java_Problems.Topics-LocalDate-The_first_day_of_a_month_or_not.main" />
+        <module name="Java_Problems.Topics-What_are_collections-Theory.test" />
+        <module name="Java_Problems.Topics-Custom_serialization-Theory.test" />
+        <module name="Java_Problems.Topics-Infinite_streams-Theory.main" />
+        <module name="Java_Problems.Topics-The_Set_interface-Theory.main" />
+        <module name="Java_Problems.Topics-Multidimensional_array-Theory.main" />
+        <module name="Java_Problems.Topics-Taking_elements-Theory.main" />
+        <module name="Java_Problems.Topics-Taking_elements-Secret_codes.test" />
+        <module name="Java_Problems.Topics-Functional_decomposition-Decompose_a_math_function.test" />
+        <module name="Java_Problems.Topics-Method_references-A_method_reference.main" />
+        <module name="Java_Problems.Topics-Command-Participants.main" />
+        <module name="Java_Problems.Topics-Reduction_methods-Sum_of_divisors.main" />
+        <module name="Java_Problems.Topics-Inner_classes-New_Inner_class.test" />
+        <module name="Java_Problems.Topics-Facade-A_disadvantage.test" />
+        <module name="Java_Problems.Topics-Comparing_dates_and_time-Select_correct_statements.test" />
+        <module name="Java_Problems.Topics-Command-line_arguments-Theory.main" />
+        <module name="Java_Problems.Topics-Nested_classes-Theory.test" />
+        <module name="Java_Problems.Topics-Type_Bounds-Number_holder.test" />
+        <module name="Java_Problems.Topics-Integer_types_and_operations-Arithmetic_expression.test" />
+        <module name="Java_Problems.Topics-Bean_validation-Theory.main" />
+        <module name="Java_Problems.Topics-Exception_handling-String_to_double_conversion.test" />
+        <module name="Java_Problems.Topics-Command-line_arguments__1_-How_to_pass_ints.test" />
+        <module name="Java_Problems.Topics-Getters_and_setters-Theory.main" />
+        <module name="Java_Problems.Topics-Instance_methods-In_a_box.test" />
+        <module name="Java_Problems.Topics-Branching_statements-Bus_tour.test" />
+        <module name="Java_Problems.Topics-Generics_and_Object-Theory.main" />
+        <module name="Java_Problems.Topics-Inheritance-Classes_for_Hospital.test" />
+        <module name="Java_Problems.Topics-Grouping_collectors-Theory.test" />
+        <module name="Java_Problems.Topics-Multidimensional_array-Find_the_corners.test" />
+        <module name="Java_Problems.Topics-Printing_data-Theory.main" />
+        <module name="Java_Problems.Topics-Thread_management-VeganPizza.main" />
+        <module name="Java_Problems.Topics-Command-Undo_command.test" />
+        <module name="Java_Problems.Topics-Regexes_in_programs-Ignoring_spaces.test" />
+        <module name="Java_Problems.Topics-Constructor-Geometric_cube.test" />
+        <module name="Java_Problems.Topics-Generics_and_Object-Initialize_an_object_of_a_generic_class.test" />
+        <module name="Java_Problems.Topics-Input_streams-Read_into_an_array.main" />
+        <module name="Java_Problems.Topics-Standard_functional_interfaces-Ternary_operator.main" />
+        <module name="Java_Problems.Topics-Unit_testing_with_JUnit-Assertion.test" />
+        <module name="Java_Problems.Topics-Currying-Types_of_a_curried_function.test" />
+        <module name="Java_Problems.Topics-The_Map_interface-Existing_implementations.test" />
+        <module name="Java_Problems.Topics-toString__-Books_as_strings.main" />
+        <module name="Java_Problems.Topics-Arrays_as_parameters-Theory.test" />
+        <module name="Java_Problems.Topics-Processing_strings-Piece_of_alphabet.main" />
+        <module name="Java_Problems.Topics-Standard_functional_interfaces-Accounts.main" />
+        <module name="Java_Problems.Topics-Collectors-ASCII_Art.test" />
+        <module name="Java_Problems.Topics-toString__-Class_hierarchy.main" />
+        <module name="Java_Problems.Topics-Threads_as_objects-Theory.main" />
+        <module name="Java_Problems.Topics-Integer_types_and_operations-Snail.main" />
+        <module name="Java_Problems.Topics-Lambda_expressions-Expression_closure.test" />
+        <module name="Java_Problems.Topics-LocalDate-The_n-th_day_from_the_end_of_a_month.main" />
+        <module name="Java_Problems.Topics-Function_composition-Disjunct_all.main" />
+        <module name="Java_Problems.Topics-Defining_classes-Representing_time_as_a_class.test" />
+        <module name="Java_Problems.Topics-Thread_management-Theory.main" />
+        <module name="Java_Problems.Topics-Functional_interfaces-Statements.main" />
+        <module name="Java_Problems.Topics-The_Set_interface-Strict_superset.test" />
+        <module name="Java_Problems.Topics-LocalTime-Seconds_since_start_of_a_day.test" />
+        <module name="Java_Problems.Topics-Functional_data_processing_with_streams-Statements_about_stream_operations.test" />
+        <module name="Java_Problems.Topics-Optional-Sum_up_optional_values.test" />
+        <module name="Java_Problems.Topics-Streams_of_primitives-The_average_salary.main" />
+        <module name="Java_Problems.Topics-Stream_filtering-Theory.main" />
+        <module name="Java_Problems.Topics-The_Collections_Framework_overview-Theory.test" />
+        <module name="Java_Problems.Topics-Static_members-Theory.main" />
+        <module name="Java_Problems.Topics-Instance_methods-Theory.test" />
+        <module name="Java_Problems.Topics-Arrays_as_parameters-Get_first_and_last_elements.main" />
+        <module name="Java_Problems.Topics-Singleton-Bad_singleton.test" />
+        <module name="Java_Problems.Topics-Factory_method-Burger_store.main" />
+        <module name="Java_Problems.Topics-Factory_method-Laptop_store.main" />
+        <module name="Java_Problems.Topics-Introduction_to_generic_programming-Theory.test" />
+        <module name="Java_Problems.Topics-Multidimensional_array-Symmetric_matrix.main" />
+        <module name="Java_Problems.Topics-Polymorphism-Publication_and_its_subclasses.main" />
+        <module name="Java_Problems.Topics-Reduction_methods-Reduce-like_operations.main" />
+        <module name="Java_Problems.Topics-Standard_functional_interfaces-An_infinite_numbers_supplier.main" />
+        <module name="Java_Problems.Topics-Memento-Classification.main" />
+        <module name="Java_Problems.Topics-Stream_filtering-Check_if_a_number_is_prime.main" />
+        <module name="Java_Problems.Topics-Multidimensional_array-Create_cube.main" />
+        <module name="Java_Problems.Topics-Stream_pipelines-The_total_sum_of_canceled_transactions.test" />
+        <module name="Java_Problems.Topics-Lambda_expressions-Production_of_all_numbers_in_the_range.test" />
+        <module name="Java_Problems.Topics-The_Map_interface-Kidnapper_of_Ice_cream.main" />
+        <module name="Java_Problems.Topics-Parallel_streams-Prime_numbers.main" />
+        <module name="Java_Problems.Topics-Thread_synchronization-Synchronized_blocks.test" />
+        <module name="Java_Problems.Topics-Exception_handling-Theory.main" />
+        <module name="Java_Problems.Topics-Processing_strings-Double_characters.main" />
+        <module name="Java_Problems.Topics-Functional_interfaces-A_lambda_expression_with_seven_arguments.test" />
+        <module name="Java_Problems.Topics-LocalDate-Getting_information_on_a_day.main" />
+        <module name="Java_Problems.Topics-Array_exceptions-Theory.main" />
+        <module name="Java_Problems.Topics-Regexes_in_programs-Vehicle_registration_number.main" />
+        <module name="Java_Problems.Topics-Instance_methods-Patient_needs_a_doctor.main" />
+        <module name="Java_Problems.Topics-Functional_data_processing_with_streams-Statements_about_streams.test" />
+        <module name="Java_Problems.Topics-Abstract_factory-Phone_factory.main" />
+        <module name="Java_Problems.Topics-Anonymous_classes-Find_a_correct_syntax.test" />
+        <module name="Java_Problems.Topics-Comparator-Sort_users.test" />
+        <module name="Java_Problems.Topics-Array-Initializing_an_array_of_longs.main" />
+        <module name="Java_Problems.Topics-Errors_in_programs-Theory.test" />
+        <module name="Java_Problems.Topics-Iterating_over_arrays-The_sum_of_array_elements.test" />
+        <module name="Java_Problems.Topics-Unit_testing_with_JUnit-Test_driven_development.main" />
+        <module name="Java_Problems.Topics-Queue_and_Stack-Theory.test" />
+        <module name="Java_Problems.Topics-Queue_and_Stack-Working_with_queue.test" />
+        <module name="Java_Problems.Topics-Grouping_collectors-Map_keys.test" />
+        <module name="Java_Problems.Topics-Instance_methods-Simulating_a_clock.test" />
+        <module name="Java_Problems.Topics-Output_streams-Theory.test" />
+        <module name="Java_Problems.Topics-Input_streams-Byte_vs_character_input_streams.main" />
+        <module name="Java_Problems.Topics-Custom_threads-Theory.main" />
+        <module name="Java_Problems.Topics-LocalDateTime-Whole_hours_between_two_date-time_pairs.test" />
+        <module name="Java_Problems.Topics-Static_members-Time_constants.test" />
+        <module name="Java_Problems.Topics-Facade-Type_of_facade_pattern.main" />
+        <module name="Java_Problems.Topics-The_Collections_Framework_overview-Squares_list.test" />
+        <module name="Java_Problems.Topics-The_Map_interface-Theory.main" />
+        <module name="Java_Problems.Topics-Functional_decomposition-Create_a_full_name.main" />
+        <module name="Java_Problems.Topics-Boxing_and_unboxing-Only_true_or_false.test" />
+        <module name="Java_Problems.Topics-Currying-Returning_functions.main" />
+        <module name="Java_Problems.Topics-Regexes_in_programs-Safe_password.main" />
+        <module name="Java_Problems.Topics-Thread_synchronization-Where_it_is_possible_to_write_synchronized.test" />
+        <module name="Java_Problems.Topics-LocalDate-10_days_before.main" />
+        <module name="Java_Problems.Topics-Reduction_methods-Statements.main" />
+        <module name="Java_Problems.Topics-Default_methods-What_is_a_result_.test" />
+        <module name="Java_Problems.Topics-Grouping_collectors-Splitting_data_with_a_collector.main" />
+        <module name="Java_Problems.Topics-Factory_method-Robot.test" />
+        <module name="Java_Problems.Topics-Comparator-Most_valuable_items.main" />
+        <module name="Java_Problems.Topics-Comparable-Implement_comparing_by_additional_fields.main" />
+        <module name="Java_Problems.Topics-LocalDateTime-The_passed_hours_since_the_beginning_of_year.test" />
+        <module name="Java_Problems.Topics-Regexes_in_programs-Check_the_date.main" />
+        <module name="Java_Problems.Topics-Singleton-Select_statements.main" />
+        <module name="Java_Problems.Topics-Constructor-Complex_numbers.main" />
+        <module name="Java_Problems.Topics-LocalDate-Convert_numbers_to_days.test" />
+        <module name="Java_Problems.Topics-Facade-Log_Search_Facade.test" />
+        <module name="Java_Problems.Topics-Thread_management-Join.test" />
+        <module name="Java_Problems.Topics-Optional-Create_an_Optional_value.test" />
+        <module name="Java_Problems.Topics-Defining_classes-Books.main" />
+        <module name="Java_Problems.Topics-Generic_methods-The_first_element.test" />
+        <module name="Java_Problems.Topics-Thread_synchronization-Thread_synchronization_in_Java.test" />
+        <module name="Java_Problems.Topics-Memento-Use_cases.main" />
+        <module name="Java_Problems.Topics-LocalDate-30_years_before_and_after.test" />
+        <module name="Java_Problems.Topics-Scanning_the_input-Theory.test" />
+        <module name="Java_Problems.Topics-Inner_classes-Your_vehicle.test" />
+        <module name="Java_Problems.Topics-Output_streams-Convert_to_char_array.test" />
+        <module name="Java_Problems.Topics-Printing_data-From_0_to_4.test" />
+        <module name="Java_Problems.Topics-Reduction_methods-Reduce_operations.main" />
+        <module name="Java_Problems.Topics-Threads_as_objects-Getting_current_thread_info.test" />
+        <module name="Java_Problems.Topics-Reflection_basics-Declared_fields.main" />
+        <module name="Java_Problems.Topics-Infinite_streams-Select_output.test" />
+        <module name="Java_Problems.Topics-What_are_collections-Initialize_a_collection.main" />
+        <module name="Java_Problems.Topics-Functional_interfaces-Ternary_predicate.main" />
+        <module name="Java_Problems.Topics-Functional_data_processing_with_streams-Long_ranges.test" />
+        <module name="Java_Problems.Topics-Multidimensional_array-Cinema.test" />
+        <module name="Java_Problems.Topics-Function_composition-How_to_compose_predicates_together.test" />
+        <module name="Java_Problems.Topics-The_Collections_Framework_overview-Theory.main" />
+        <module name="Java_Problems.Topics-LocalTime-Seconds_since_start_of_a_day.main" />
+        <module name="Java_Problems.Topics-Stream_pipelines-The_ten_most_frequent_words.test" />
+        <module name="Java_Problems.Topics-Iterating_over_arrays-Theory.test" />
+        <module name="Java_Problems.Topics-Encapsulating_object_creation-Static_factory_methods_for_Time.test" />
+        <module name="Java_Problems.Topics-Executors-Theory.test" />
+        <module name="Java_Problems.Topics-Defining_classes-Theory.test" />
+        <module name="Java_Problems.Topics-Functional_interfaces-Built-in_classes.main" />
+        <module name="Java_Problems.Topics-Unit_testing_with_JUnit-Failed_assertion.main" />
+        <module name="Java_Problems.Topics-Default_methods-What_is_a_result_.main" />
+        <module name="Java_Problems.Topics-Generics_and_Object-Initialize_an_object_of_a_generic_class.main" />
+        <module name="Java_Problems.Topics-Input_streams-Read_into_an_array.test" />
+        <module name="Java_Problems.Topics-Declaring_a_method-Sum_of_numbers_in_the_range.test" />
+        <module name="Java_Problems.Topics-Factory_method-Theory.main" />
+        <module name="Java_Problems.Topics-Printing_data-Theory.test" />
+        <module name="Java_Problems.Topics-Bean_validation-Add_two_annotations.test" />
+        <module name="Java_Problems.Topics-Input_streams-FileInputStream_class.main" />
+        <module name="Java_Problems.Topics-Processing_strings-Piece_of_alphabet.test" />
+        <module name="Java_Problems.Topics-toString__-Theory.main" />
+        <module name="Java_Problems.Topics-Exception_handling-Suitable_keywords.test" />
+        <module name="Java_Problems.Topics-Reduction_methods-Sum_of_divisors.test" />
+        <module name="Java_Problems.Topics-Taking_elements-Theory.test" />
+        <module name="Java_Problems.Topics-Bean_validation-Add_two_annotations-build-tmp.test" />
+        <module name="Java_Problems.Topics-LocalDate-Convert_numbers_to_days.main" />
+        <module name="Java_Problems.Topics-Comparator-Method_name.main" />
+        <module name="Java_Problems.Topics-ArrayList-Theory.main" />
+        <module name="Java_Problems.Topics-Arrays_as_parameters-Theory.main" />
+        <module name="Java_Problems.Topics-Method_references-A_method_reference.test" />
+        <module name="Java_Problems.Topics-Grouping_collectors-Map_keys.main" />
+        <module name="Java_Problems.Topics-Generics_and_Object-Theory.test" />
+        <module name="Java_Problems.Topics-LocalDate-The_n-th_day_from_the_end_of_a_month.test" />
+        <module name="Java_Problems.Topics-Files-Theory.main" />
+        <module name="Java_Problems.Topics-Anonymous_classes-Theory.test" />
+        <module name="Java_Problems.Topics-Nested_classes-Theory.main" />
+        <module name="Java_Problems.Topics-ArrayList-Creating_list.test" />
+        <module name="Java_Problems.Topics-Objects-Theory.test" />
+        <module name="Java_Problems.Topics-Anonymous_classes-String_reverser.test" />
+        <module name="Java_Problems.Topics-LocalDate-Print_dates_of_a_year_with_an_offset.test" />
+        <module name="Java_Problems.Topics-Stream_filtering-Theory.test" />
+        <module name="Java_Problems.Topics-Iterating_over_arrays-Sum_array_elements_greater_than_a_value.test" />
+        <module name="Java_Problems.Topics-Streams_of_primitives-The_average_salary.test" />
+        <module name="Java_Problems.Topics-Bean_validation-Theory.test" />
+        <module name="Java_Problems.Topics-Static_members-Theory.test" />
+        <module name="Java_Problems.Topics-Taking_elements-Secret_codes.main" />
+        <module name="Java_Problems.Topics-Processing_strings-Theory.test" />
+        <module name="Java_Problems.Topics-Unit_testing_with_JUnit-Assertion.main" />
+        <module name="Java_Problems.Topics-Decorator-Theory.test" />
+        <module name="Java_Problems.Topics-The_main_method-Print__We_are_robots_.main" />
+        <module name="Java_Problems.Topics-Decorator-Disadvantages.test" />
+        <module name="Java_Problems.Topics-Exception_handling-Improve_the_program.main" />
+        <module name="Java_Problems.Topics-Decorator-Coffee_Decorator.main" />
+        <module name="Java_Problems.Topics-Integer_types_and_operations-Arithmetic_expression.main" />
+        <module name="Java_Problems.Topics-NPE-Unknown_input.main" />
+        <module name="Java_Problems.Topics-Functional_data_processing_with_streams-Statements_about_streams.main" />
+        <module name="Java_Problems.Topics-Singleton-Printing_data_of_a_singleton.main" />
+        <module name="Java_Problems.Topics-Grouping_collectors-Teeing_collector_features.test" />
+        <module name="Java_Problems.Topics-Infinite_streams-Making_a_stream_finite__1_.test" />
+        <module name="Java_Problems.Topics-Objects-Theory.main" />
+        <module name="Java_Problems.Topics-Streams_of_primitives-A_stream_without_zero.test" />
+        <module name="Java_Problems.Topics-Inner_classes-Your_vehicle.main" />
+        <module name="Java_Problems.Topics-Thread_synchronization-What_is_incorrect_about_monitors.test" />
+        <module name="Java_Problems.Topics-Encapsulating_object_creation-Clock_factory.main" />
+        <module name="Java_Problems.Topics-Reduction_methods-Reduce_operations.test" />
+        <module name="Java_Problems.Topics-Taking_elements-The_name_of_a_method.main" />
+        <module name="Java_Problems.Topics-Functional_interfaces-The_requirement.main" />
+        <module name="Java_Problems.Topics-Thread_management-The_order_of_lines.test" />
+        <module name="Java_Problems.Topics-Functional_decomposition-Create_a_full_name.test" />
+        <module name="Java_Problems.Topics-Getters_and_setters-Complex.main" />
+        <module name="Java_Problems.Topics-Interface-Theory.test" />
+        <module name="Java_Problems.Topics-Introduction_to_generic_programming-Correct_the_program.test" />
+        <module name="Java_Problems.Topics-Currying-Statements.test" />
+        <module name="Java_Problems.Topics-Comparing_dates_and_time-What_is_correct.test" />
+        <module name="Java_Problems.Topics-Errors_in_programs-Theory.main" />
+        <module name="Java_Problems.Topics-Unit_testing_with_JUnit-Test_driven_development.test" />
+        <module name="Java_Problems.Topics-Optional-Avoiding_exceptions.test" />
+        <module name="Java_Problems.Topics-Stream_pipelines-The_total_sum_of_canceled_transactions.main" />
+        <module name="Java_Problems.Topics-Grouping_collectors-Splitting_data_with_a_collector.test" />
+        <module name="Java_Problems.Topics-Comparable-Implement_comparing_by_additional_fields.test" />
+        <module name="Java_Problems.Topics-Files__1_-Theory.main" />
+        <module name="Java_Problems.Topics-Output_streams-Theory.main" />
+        <module name="Java_Problems.Topics-The_Map_interface-Displaying_pairs.test" />
+        <module name="Java_Problems.Topics-LocalDate-Getting_information_on_a_day.test" />
+        <module name="Java_Problems.Topics-Facade-Theory.main" />
+        <module name="Java_Problems.Topics-Lambda_expressions-Production_of_all_numbers_in_the_range.main" />
+        <module name="Java_Problems.Topics-Multidimensional_array-Symmetric_matrix.test" />
+        <module name="Java_Problems.Topics-Scanning_the_input-Print_strings_in_the_reverse_order.main" />
+        <module name="Java_Problems.Topics-Stream_pipelines-The_sum_of_odd_numbers.test" />
+        <module name="Java_Problems.Topics-The_Set_interface-Creating_a_set.test" />
+        <module name="Java_Problems.Topics-Array_exceptions-Theory.test" />
+        <module name="Java_Problems.Topics-Lambda_expressions-Max_of_two_integers.test" />
+        <module name="Java_Problems.Topics-The_utility_class_Collections-Frequency_of_characters.main" />
+        <module name="Java_Problems.Topics-Inner_classes-Theory.test" />
+        <module name="Java_Problems.Topics-Parallel_streams-Prime_numbers.test" />
+        <module name="Java_Problems.Topics-Errors_in_programs-Print_the_age.main" />
+        <module name="Java_Problems.Topics-Generic_methods-The_first_element.main" />
+        <module name="Java_Problems.Topics-Stream_filtering-Bad_words_detecting.main" />
+        <module name="Java_Problems.Topics-Decorator-Advantages.main" />
+        <module name="Java_Problems.Topics-Memento-Classification.test" />
+        <module name="Java_Problems.Topics-Output_streams-Convert_to_char_array.main" />
+        <module name="Java_Problems.Topics-The_Set_interface-Theory.test" />
+        <module name="Java_Problems.Topics-toString__-toString_method.main" />
+        <module name="Java_Problems.Topics-Stream_pipelines-The_peek_method.main" />
+        <module name="Java_Problems.Topics-Command-Undo_command.main" />
+        <module name="Java_Problems.Topics-Printing_data-Digits_from_0_to_9_backwards.test" />
+        <module name="Java_Problems.Topics-Threads_as_objects-Getting_current_thread_info.main" />
+        <module name="Java_Problems.Topics-Constructor-Geometric_cube.main" />
+        <module name="Java_Problems.Topics-Custom_threads-Theory.test" />
+        <module name="Java_Problems.Topics-Command-line_arguments__1_-The_index_of_an_argument.test" />
+        <module name="Java_Problems.Topics-Array_exceptions-Out_of_bounds_.test" />
+        <module name="Java_Problems.Topics-Parallel_streams-Theory.test" />
+        <module name="Java_Problems.Topics-Instance_methods-Patient_needs_a_doctor.test" />
+        <module name="Java_Problems.Topics-Method_references-Theory.test" />
+        <module name="Java_Problems.Topics-Thread_synchronization-Synchronized_keyword.test" />
+        <module name="Java_Problems.Topics-Grouping_collectors-Downstream_collectors.main" />
+        <module name="Java_Problems.Topics-Constructor-Book.test" />
+        <module name="Java_Problems.Topics-Encapsulating_object_creation-Motor_static_factory.main" />
+        <module name="Java_Problems.Topics-Input_streams-Byte_vs_character_input_streams.test" />
+        <module name="Java_Problems.Topics-Custom_threads-Multiple_threads.test" />
+        <module name="Java_Problems.Topics-LocalDateTime-The_passed_hours_since_the_beginning_of_year.main" />
+        <module name="Java_Problems.Topics-Errors_in_programs-Fix_the_program.test" />
+        <module name="Java_Problems.Topics-Taking_elements-The_name_of_a_method__1_.main" />
+        <module name="Java_Problems.Topics-Command-line_arguments__1_-How_to_start_a_program.main" />
+        <module name="Java_Problems.Topics-Files__1_-Are_siblings.test" />
+        <module name="Java_Problems.Topics-Command-line_arguments-Theory.test" />
+        <module name="Java_Problems.Topics-Constructor-Complex_numbers.test" />
+        <module name="Java_Problems.Topics-Facade-Log_Search_Facade.main" />
+        <module name="Java_Problems.Topics-Regexes_in_programs-Safe_password.test" />
+        <module name="Java_Problems.Topics-Nested_classes-Create_prototype.main" />
+        <module name="Java_Problems.Topics-Thread_management-Summing_with_threads.test" />
+        <module name="Java_Problems.Topics-Defining_classes-Books.test" />
+        <module name="Java_Problems.Topics-LocalDate-Working_with_dates.test" />
+        <module name="Java_Problems.Topics-Singleton-Select_statements.test" />
+        <module name="Java_Problems.Topics-Iterating_over_arrays-The_sum_of_array_elements.main" />
+        <module name="Java_Problems.Topics-Collectors-Theory.main" />
+        <module name="Java_Problems.Topics-Exception_handling-String_to_double_conversion.main" />
+        <module name="Java_Problems.Topics-Standard_functional_interfaces-Package_java.util.function.test" />
+        <module name="Java_Problems.Topics-Custom_serialization-Password_processing.main" />
+        <module name="Java_Problems.Topics-Functional_data_processing_with_streams-Print_elements_of_a_stream.test" />
+        <module name="Java_Problems.Topics-NPE-Avoid_NPE_with_strings.test" />
+        <module name="Java_Problems.Topics-Input_streams-Convert_to_bytes.test" />
+        <module name="Java_Problems.Topics-Comparator-Comparing_values.main" />
+        <module name="Java_Problems.Topics-toString__-Theory.test" />
+        <module name="Java_Problems.Topics-Anonymous_classes-And_always_these_rules.test" />
+        <module name="Java_Problems.Topics-Comparing_dates_and_time-How_many_date-time_pairs_match_the_range.test" />
+        <module name="Java_Problems.Topics-Printing_data-From_0_to_4.main" />
+        <module name="Java_Problems.Topics-Infinite_streams-Making_a_stream_finite__1_.main" />
+        <module name="Java_Problems.Topics-Processing_strings-Convert_a_date.test" />
+        <module name="Java_Problems.Topics-Thread_management-Ordering_the_execution_of_threads.test" />
+        <module name="Java_Problems.Topics-Throwing_exceptions-Theory.main" />
+        <module name="Java_Problems.Topics-Infinite_streams-Generating_cats.test" />
+        <module name="Java_Problems.Topics-toString__-Convert_persons_and_patients_to_string.test" />
+        <module name="Java_Problems.Topics-Stream_pipelines-What_is_the_result.main" />
+        <module name="Java_Problems.Topics-Nested_classes-Create_prototype.test" />
+        <module name="Java_Problems.Topics-Interface-Area_of_a_circle.test" />
+        <module name="Java_Problems.Topics-Errors_in_programs-Fix_compile-time_errors.main" />
+        <module name="Java_Problems.Topics-Functional_data_processing_with_streams-Long_ranges.main" />
+        <module name="Java_Problems.Topics-Functional_interfaces-Built-in_classes.test" />
+        <module name="Java_Problems.Topics-Lambda_expressions-Apply_function_to_all_elements.test" />
+        <module name="Java_Problems.Topics-What_are_collections-Initialize_a_collection.test" />
+        <module name="Java_Problems.Topics-Abstract_class-IntBinaryOperation.test" />
+        <module name="Java_Problems.Topics-Facade-Computer_Facade.main" />
+        <module name="Java_Problems.Topics-Reduction_methods-Calculating_factorials.test" />
+        <module name="Java_Problems.Topics-LocalTime-Theory.main" />
+        <module name="Java_Problems.Topics-Scanning_the_input-Guest_list_of_a_hotel.test" />
+        <module name="Java_Problems.Topics-Facade-Cinema_Facade.main" />
+        <module name="Java_Problems.Topics-Objects-Preparing_full_name.main" />
+        <module name="Java_Problems.Topics-Iterating_over_arrays-Theory.main" />
+        <module name="Java_Problems.Topics-Generic_methods-Theory.main" />
+        <module name="Java_Problems.Topics-Errors_in_programs-What's_wrong.main" />
+        <module name="Java_Problems.Topics-Comparator-Method_name.test" />
+        <module name="Java_Problems.Topics-Comparator-Multiple_fields.main" />
+        <module name="Java_Problems.Topics-Reduction_methods-Reducing_persons_by_ages.test" />
+        <module name="Java_Problems.Topics-Bean_validation-Add_two_annotations-build-classes-java.test" />
+        <module name="Java_Problems.Topics-Facade-Type_of_facade_pattern.test" />
+        <module name="Java_Problems.Topics-Infinite_streams-What_does_the_code_print.main" />
+        <module name="Java_Problems.Topics-Anonymous_classes-Theory.main" />
+        <module name="Java_Problems.Topics-Functional_interfaces-An_invalid_way_to_create_a_functional_interface.test" />
+        <module name="Java_Problems.Topics-The_utility_class_Collections-Collection_class_basics.test" />
+        <module name="Java_Problems.Topics-Encapsulating_object_creation-Theory.test" />
+        <module name="Java_Problems.Topics-Lambda_expressions-Theory.main" />
+        <module name="Java_Problems.Topics-Collectors-The_product_of_squares.test" />
+        <module name="Java_Problems.Topics-Custom_exceptions-DriverNotReadyException.main" />
+        <module name="Java_Problems.Topics-Comparator-Reverse_sorting.test" />
+        <module name="Java_Problems.Topics-Standard_functional_interfaces-Describe_the_function.main" />
+        <module name="Java_Problems.Topics-Bean_validation-Add_two_annotations.main" />
+        <module name="Java_Problems.Topics-Processing_strings-Determine_the_value.test" />
+        <module name="Java_Problems.Topics-Function_composition-The_chain_of_responsibility.test" />
+        <module name="Java_Problems.Topics-Lambda_expressions-Creating_a_closure.main" />
+        <module name="Java_Problems.Topics-Lambda_expressions-Max_of_two_integers.main" />
+        <module name="Java_Problems.Topics-Integer_types_and_operations-Snail.test" />
+        <module name="Java_Problems.Topics-Custom_serialization-The_Range_class.test" />
+        <module name="Java_Problems.Topics-Functional_decomposition-Calculator_with_four_methods.test" />
+        <module name="Java_Problems.Topics-Processing_strings-Determine_the_output.main" />
+        <module name="Java_Problems.Topics-Grouping_collectors-Downstream_collectors.test" />
+        <module name="Java_Problems.Topics-Printing_data-First,_second,_third.main" />
+        <module name="Java_Problems.Topics-NPE-Unknown_input.test" />
+        <module name="Java_Problems.Topics-Stream_pipelines-Counting_words.main" />
+        <module name="Java_Problems.Topics-Decorator-Advantages.test" />
+        <module name="Java_Problems.Topics-Custom_serialization-Fix_the_bank_account.main" />
+        <module name="Java_Problems.Topics-The_keyword_super-Fix_the_non-compiled_hierarchy.main" />
+        <module name="Java_Problems.Topics-Anonymous_classes-What_about_context_.main" />
+        <module name="Java_Problems.Topics-Inner_classes-Christmas_tree.test" />
+        <module name="Java_Problems.Topics-The_List_interface-Theory.test" />
+        <module name="Java_Problems.Topics-Memento-Roll_back.main" />
+        <module name="Java_Problems.Topics-Scanning_the_input-Print_strings_in_the_reverse_order.test" />
+        <module name="Java_Problems.Topics-Decorator-Pizza_Decorator.test" />
+        <module name="Java_Problems.Topics-LocalDateTime-Adding_N_minutes.test" />
+        <module name="Java_Problems.Topics-Nested_classes-Create_class.test" />
+        <module name="Java_Problems.Topics-Regexes_in_programs-Card_name_validation_and_identification.test" />
+        <module name="Java_Problems.Topics-Thread_synchronization-Countdown_counter.test" />
+        <module name="Java_Problems.Topics-Exception_handling-Improve_the_program.test" />
+        <module name="Java_Problems.Topics-Custom_threads-String_processor.test" />
+        <module name="Java_Problems.Topics-Default_methods-Implement_a_default_method.main" />
+        <module name="Java_Problems.Topics-Getters_and_setters-Complex.test" />
+        <module name="Java_Problems.Topics-Scanning_the_input-Hiring_a_chef.main" />
+        <module name="Java_Problems.Topics-Array_exceptions-Out_of_bounds_.main" />
+        <module name="Java_Problems.Topics-Comparator-Non-abstract_methods.main" />
+        <module name="Java_Problems.Topics-Hiding_and_overriding-Saying_animals.main" />
+        <module name="Java_Problems.Topics-Comparing_dates_and_time-Select_correct_statements.main" />
+        <module name="Java_Problems.Topics-Map_and_flatMap-Theory.main" />
+        <module name="Java_Problems.Topics-Thread_synchronization-Thread-safe_account.main" />
+        <module name="Java_Problems.Topics-The_keyword_super-Bank_account.main" />
+        <module name="Java_Problems.Topics-Branching_statements-The_sequence.main" />
+        <module name="Java_Problems.Topics-Encapsulating_object_creation-Motor_static_factory.test" />
+        <module name="Java_Problems.Topics-Lambda_expressions-Expressions.main" />
+        <module name="Java_Problems.Topics-Reflection_basics-Theory.test" />
+        <module name="Java_Problems.Topics-Printing_data-We_need_to_learn_Java.test" />
+        <module name="Java_Problems.Topics-Parallel_streams-Theory.main" />
+        <module name="Java_Problems.Topics-Taking_elements-The_name_of_a_method__1_.test" />
+        <module name="Java_Problems.Topics-Default_methods-Add_new_default_method.main" />
+        <module name="Java_Problems.Topics-Iterating_over_arrays-Check_if_an_array_contains_two_numbers.main" />
+        <module name="Java_Problems.Topics-Taking_elements-Sorting_and_skipping_numbers.test" />
+        <module name="Java_Problems.Topics-Custom_serialization-Theory.main" />
+        <module name="Java_Problems.Topics-Standard_functional_interfaces-Package_java.util.function.main" />
+        <module name="Java_Problems.Topics-Thread_management-Summing_with_threads.main" />
+        <module name="Java_Problems.Topics-Thread_synchronization-Synchronize_the_code.test" />
+        <module name="Java_Problems.Topics-Infinite_streams-Powers_of_two.main" />
+        <module name="Java_Problems.Topics-Thread_synchronization-Methods.main" />
+        <module name="Java_Problems.Topics-Thread_synchronization-Synchronized_keyword.main" />
+        <module name="Java_Problems.Topics-Custom_serialization-Serialization_mystery.test" />
+        <module name="Java_Problems.Topics-Processing_strings-Determine_the_value__1_.main" />
+        <module name="Java_Problems.Topics-Processing_strings-Cutting_out_the_middle_of_a_string.test" />
+        <module name="Java_Problems.Topics-LocalDateTime-Merging_date-time_instances.main" />
+        <module name="Java_Problems.Topics-LocalTime-Return_time_without_seconds.main" />
+        <module name="Java_Problems.Topics-ArrayList-Theory.test" />
+        <module name="Java_Problems.Topics-Facade-Definition.test" />
+        <module name="Java_Problems.Topics-Encapsulating_object_creation-Clock_factory.test" />
+        <module name="Java_Problems.Topics-Multidimensional_array-Cinema.main" />
+        <module name="Java_Problems.Topics-Multidimensional_array-Reverse_elements.main" />
+        <module name="Java_Problems.Topics-Stream_pipelines-The_peek_method.test" />
+        <module name="Java_Problems.Topics-Files__1_-Are_siblings.main" />
+        <module name="Java_Problems.Topics-Multidimensional_array-Rotate_a_rectangle_array.test" />
+        <module name="Java_Problems.Topics-Functional_interfaces-The_requirement.test" />
+        <module name="Java_Problems.Topics-Printing_data-Digits_from_0_to_9_backwards.main" />
+        <module name="Java_Problems.Topics-Stream_filtering-Bad_words_detecting.test" />
+        <module name="Java_Problems.Topics-Infinite_streams-Making_a_stream_finite.test" />
+        <module name="Java_Problems.Topics-Regexes_in_programs-Illegal_identifiers.test" />
+        <module name="Java_Problems.Topics-Processing_strings-Palindrome.test" />
+        <module name="Java_Problems.Topics-Currying-Reducer_operator.test" />
+        <module name="Java_Problems.Topics-Singleton-Theory.main" />
+        <module name="Java_Problems.Topics-The_Map_interface-Creating_a_map.main" />
+        <module name="Java_Problems.Topics-Processing_strings-Cutting_out_the_middle_of_a_string.main" />
+        <module name="Java_Problems.Topics-Constructor-Book.main" />
+        <module name="Java_Problems.Topics-Streams_of_primitives-Producing_streams.main" />
+        <module name="Java_Problems.Topics-Facade-Computer_Facade.test" />
+        <module name="Java_Problems.Topics-Method_references-Theory.main" />
+        <module name="Java_Problems.Topics-toString__-Account.main" />
+        <module name="Java_Problems.Topics-Comparing_dates_and_time-Theory.test" />
+        <module name="Java_Problems.Topics-Errors_in_programs-Fix_the_program.main" />
+        <module name="Java_Problems.Topics-Encapsulating_object_creation-Theory.main" />
+        <module name="Java_Problems.Topics-LocalDate-30_years_before_and_after.main" />
+        <module name="Java_Problems.Topics-Printing_data-We_need_to_learn_Java.main" />
+        <module name="Java_Problems.Topics-Reflection_basics-Theory.main" />
+        <module name="Java_Problems.Topics-Multidimensional_array-Find_the_corners.main" />
+        <module name="Java_Problems.Topics-Package-Binary_search.main" />
+        <module name="Java_Problems.Topics-Collectors-Theory.test" />
+        <module name="Java_Problems.Topics-LocalDate-10_days_before.test" />
+        <module name="Java_Problems.Topics-Functional_data_processing_with_streams-Print_elements_of_a_stream.main" />
+        <module name="Java_Problems.Topics-Errors_in_programs-What's_wrong.test" />
+        <module name="Java_Problems.Topics-Functional_decomposition-Theory.test" />
+        <module name="Java_Problems.Topics-Grouping_collectors-Grouping_numbers.test" />
+        <module name="Java_Problems.Topics-Calling_a_method-Area_of_parallelogram.main" />
+        <module name="Java_Problems.Topics-Regexes_in_programs-Illegal_identifiers.main" />
+        <module name="Java_Problems.Topics-Lambda_expressions-Theory.test" />
+        <module name="Java_Problems.Topics-Infinite_streams-What_does_the_code_print.test" />
+        <module name="Java_Problems.Topics-Functional_interfaces-Statements.test" />
+        <module name="Java_Problems.Topics-Custom_serialization-Password_processing.test" />
+        <module name="Java_Problems.Topics-toString__-Users_as_strings.test" />
+        <module name="Java_Problems.Topics-Thread_management-Join.main" />
+        <module name="Java_Problems.Topics-toString__-Class_hierarchy.test" />
+        <module name="Java_Problems.Topics-Multidimensional_array-Maximum_element_in_a_matrix.main" />
+        <module name="Java_Problems.Topics-Command-line_arguments-Get_the_game_mode.main" />
+        <module name="Java_Problems.Topics-Threads_as_objects-Theory.test" />
+        <module name="Java_Problems.Topics-Constructor-Theory.test" />
+        <module name="Java_Problems.Topics-Grouping_collectors-The_total_sum_of_transaction_by_each_account.main" />
+        <module name="Java_Problems.Topics-Functional_interfaces-An_invalid_way_to_create_a_functional_interface.main" />
+        <module name="Java_Problems.Topics-Thread_management-Ordering_the_execution_of_threads.main" />
+        <module name="Java_Problems.Topics-Thread_management-Waiting_for_a_thread.main" />
+        <module name="Java_Problems.Topics-Decorator-Pizza_Decorator.main" />
+        <module name="Java_Problems.Topics-LocalDate-Similar_date.main" />
+        <module name="Java_Problems.Topics-Queue_and_Stack-Working_with_queue.main" />
+        <module name="Java_Problems.Topics-toString__-Time_as_a_string.test" />
+        <module name="Java_Problems.Topics-Instance_methods-Complex_numbers.test" />
+        <module name="Java_Problems.Topics-Printing_data-First,_second,_third.test" />
+        <module name="Java_Problems.Topics-Getters_and_setters-Theory.test" />
+        <module name="Java_Problems.Topics-NPE-Avoid_NPE_with_strings.main" />
+        <module name="Java_Problems.Topics-Stream_pipelines-What_is_the_result.test" />
+        <module name="Java_Problems.Topics-Standard_functional_interfaces-Describe_the_function.test" />
+        <module name="Java_Problems.Topics-Stream_pipelines-The_sum_of_odd_numbers.main" />
+        <module name="Java_Problems.Topics-Functional_data_processing_with_streams-Statements_about_stream_operations.main" />
+        <module name="Java_Problems.Topics-Scanning_the_input-Hiring_a_chef.test" />
+        <module name="Java_Problems.Topics-Processing_strings-Determine_the_value.main" />
+        <module name="Java_Problems.Topics-Reduction_methods-Calculating_factorials.main" />
+        <module name="Java_Problems.Topics-Throwing_exceptions-Theory.test" />
+        <module name="Java_Problems.Topics-Errors_in_programs-Fix_compile-time_errors.test" />
+        <module name="Java_Problems.Topics-Infinite_streams-Generating_cats.main" />
+        <module name="Java_Problems.Topics-Thread_synchronization-Method_inside_the_synchronized_block.main" />
+        <module name="Java_Problems.Topics-Bean_validation-Add_two_annotations-build-generated-sources-headers-java.main" />
+        <module name="Java_Problems.Topics-Infinite_streams-Theory.test" />
+        <module name="Java_Problems.Topics-Stream_pipelines-The_order_of_execution.test" />
+        <module name="Java_Problems.Topics-LocalTime-Theory.test" />
+        <module name="Java_Problems.Topics-Thread_management-VeganPizza.test" />
+        <module name="Java_Problems.Topics-Interface-Area_of_a_circle.main" />
+        <module name="Java_Problems.Topics-The_Set_interface-Strict_superset.main" />
+        <module name="Java_Problems.Topics-The_keyword_super-Employees.test" />
+        <module name="Java_Problems.Topics-Thread_management-The_order_of_lines.main" />
+        <module name="Java_Problems.Topics-Executors-Check_whether_a_number_is_prime.main" />
+        <module name="Java_Problems.Topics-Infinite_streams-Methods_for_creating_infinite_streams.main" />
+        <module name="Java_Problems.Topics-Comparing_dates_and_time-What_is_correct.main" />
+        <module name="Java_Problems.Topics-Thread_synchronization-Method_inside_the_synchronized_block.test" />
+        <module name="Java_Problems.Topics-Comparing_dates_and_time-How_many_date-time_pairs_match_the_range.main" />
+        <module name="Java_Problems.Topics-Generic_methods-Theory.test" />
+        <module name="Java_Problems.Topics-Introduction_to_generic_programming-Correct_the_program.main" />
+        <module name="Java_Problems.Topics-Objects-Preparing_full_name.test" />
+        <module name="Java_Problems.Topics-toString__-String_representation.main" />
+        <module name="Java_Problems.Topics-Calling_a_method-Theory.main" />
+        <module name="Java_Problems.Topics-Command-Participants.test" />
+        <module name="Java_Problems.Topics-Interface-Theory.main" />
+        <module name="Java_Problems.Topics-Abstract_factory-Laptop_factory.main" />
+        <module name="Java_Problems.Topics-The_Collections_Framework_overview-Squares_list.main" />
+        <module name="Java_Problems.Topics-Optional-Sum_up_optional_values.main" />
+        <module name="Java_Problems.Topics-Hiding_and_overriding-Saying_animals.test" />
+        <module name="Java_Problems.Topics-Infinite_streams-Powers_of_two.test" />
+        <module name="Java_Problems.Topics-Taking_elements-Sorting_and_skipping_numbers.main" />
+        <module name="Java_Problems.Topics-Generic_methods-Print_content.test" />
+        <module name="Java_Problems.Topics-What_is_an_exception-Theory.test" />
+        <module name="Java_Problems.Topics-Custom_threads-String_processor.main" />
+        <module name="Java_Problems.Topics-Default_methods-Implement_a_default_method.test" />
+        <module name="Java_Problems.Topics-Thread_synchronization-Countdown_counter.main" />
+        <module name="Java_Problems.Topics-Instance_methods-Simulating_a_clock.main" />
+        <module name="Java_Problems.Topics-Parallel_streams-Inverting_streams.test" />
+        <module name="Java_Problems.Topics-Branching_statements-The_sequence.test" />
+        <module name="Java_Problems.Topics-The_Map_interface-Creating_a_map.test" />
+        <module name="Java_Problems.Topics-Anonymous_classes-Find_a_correct_syntax.main" />
+        <module name="Java_Problems.Topics-Thread_synchronization-Thread-safe_account.test" />
+        <module name="Java_Problems.Topics-Comparable-Implement_compareTo_method.test" />
+        <module name="Java_Problems.Topics-Comparator-Reverse_sorting.main" />
+        <module name="Java_Problems.Topics-Instance_methods-Theory.main" />
+        <module name="Java_Problems.Topics-Map_and_flatMap-Theory.test" />
+        <module name="Java_Problems.Topics-Comparator-Comparing_numbers.test" />
+        <module name="Java_Problems.Topics-Comparator-Non-abstract_methods.test" />
+        <module name="Java_Problems.Topics-Custom_serialization-The_Range_class.main" />
+        <module name="Java_Problems.Topics-Decorator-Coffee_Decorator.test" />
+        <module name="Java_Problems.Topics-Functional_decomposition-Calculator_with_four_methods.main" />
+        <module name="Java_Problems.Topics-Multidimensional_array-Create_cube.test" />
+        <module name="Java_Problems.Topics-The_main_method-Print__We_are_robots_.test" />
+        <module name="Java_Problems.Topics-Decorator-Theory.main" />
+        <module name="Java_Problems.Topics-Anonymous_classes-What_about_context_.test" />
+        <module name="Java_Problems.Topics-Processing_strings-Double_characters.test" />
+        <module name="Java_Problems.Topics-Thread_synchronization-Synchronized_blocks.main" />
+        <module name="Java_Problems.Topics-Iterating_over_arrays-Check_if_an_array_contains_two_numbers.test" />
+        <module name="Java_Problems.Topics-Comparator-Multiple_fields.test" />
+        <module name="Java_Problems.Topics-Optional-Create_an_Optional_value.main" />
+        <module name="Java_Problems.Topics-Grouping_collectors-Palindrome_or_not.main" />
+        <module name="Java_Problems.Topics-Increment_and_decrement-Decrement_all.main" />
+        <module name="Java_Problems.Topics-toString__-Convert_persons_and_patients_to_string.main" />
+        <module name="Java_Problems.Topics-Input_streams-FileInputStream_class.test" />
+        <module name="Java_Problems.Topics-Input_streams-Theory.main" />
+        <module name="Java_Problems.Topics-LocalDateTime-Merging_date-time_instances.test" />
+        <module name="Java_Problems.Topics-Memento-Use_cases.test" />
+        <module name="Java_Problems.Topics-Custom_serialization-Fix_the_bank_account.test" />
+        <module name="Java_Problems.Topics-Stream_pipelines-The_total_number_of_employees.main" />
+        <module name="Java_Problems.Topics-Multidimensional_array-Rotate_a_rectangle_array.main" />
+        <module name="Java_Problems.Topics-Hiding_and_overriding-Shapes_area.test" />
+        <module name="Java_Problems.Topics-LocalDateTime-Add_11_hours_and_print_the_date.main" />
+        <module name="Java_Problems.Topics-Infinite_streams-Making_a_stream_finite.main" />
+        <module name="Java_Problems.Topics-Default_methods-Theory.main" />
+        <module name="Java_Problems.Topics-Processing_strings-Determine_the_output.test" />
+        <module name="Java_Problems.Topics-Currying-Reducer_operator.main" />
+        <module name="Java_Problems.Topics-Reflection_basics-Declared_fields.test" />
+        <module name="Java_Problems.Topics-Input_streams-Reverse_input_text.test" />
+        <module name="Java_Problems.Topics-Static_members-Time_constants.main" />
+        <module name="Java_Problems.Topics-Singleton-Theory.test" />
+        <module name="Java_Problems.Topics-Lambda_expressions-Expressions.test" />
+        <module name="Java_Problems.Topics-Input_streams-Convert_to_bytes.main" />
+        <module name="Java_Problems.Topics-Introduction_to_generic_programming-Theory.main" />
+        <module name="Java_Problems.Topics-Reduction_methods-The_count_operation.test" />
+        <module name="Java_Problems.Topics-Stream_filtering-Check_if_a_number_is_prime.test" />
+        <module name="Java_Problems.Topics-Thread_synchronization-Where_it_is_possible_to_write_synchronized.main" />
+        <module name="Java_Problems.Topics-Comparator-Most_valuable_items.test" />
+        <module name="Java_Problems.Topics-Thread_synchronization-Methods.test" />
+        <module name="Java_Problems.Topics-Thread_synchronization-Thread_synchronization_in_Java.main" />
+        <module name="Java_Problems.Topics-Custom_serialization-Serializing_integers.main" />
+        <module name="Java_Problems.Topics-Decorator-Breakfast_Decorator.test" />
+        <module name="Java_Problems.Topics-Functional_decomposition-Decompose_a_math_function.main" />
+        <module name="Java_Problems.Topics-Polymorphism-Publication_and_its_subclasses.test" />
+        <module name="Java_Problems.Topics-Unit_testing_with_JUnit-Failed_assertion.test" />
+        <module name="Java_Problems.Topics-Abstract_factory-Burgers.test" />
+        <module name="Java_Problems.Topics-Singleton-Complete_a_class.test" />
+        <module name="Java_Problems.Topics-Thread_synchronization-Two_methods,_two_statements.test" />
+        <module name="Java_Problems.Topics-Executors-Asynchronous_email_sending.test" />
+        <module name="Java_Problems.Topics-Boxing_and_unboxing-Safe_converting.test" />
+        <module name="Java_Problems.Topics-Integer_types_and_operations-Theory.test" />
+        <module name="Java_Problems.Topics-Declaring_a_method-Calculating_factorials.test" />
+        <module name="Java_Problems.Topics-Package-Theory.main" />
+        <module name="Java_Problems.Topics-Comparator-Theory.main" />
+        <module name="Java_Problems.Topics-Inner_classes-Improve_your vehicle.main" />
+        <module name="Java_Problems.Topics-LocalDate-The_last_day_of_a_month.main" />
+        <module name="Java_Problems.Topics-Parallel_streams-Parallel_reducing.test" />
+        <module name="Java_Problems.Topics-Thread_management-Sleep.test" />
+        <module name="Java_Problems.Topics-Comparing_dates_and_time-Theory.main" />
+        <module name="Java_Problems.Topics-Interface-Compact_strings_with_AsciiCharSequence.test" />
+        <module name="Java_Problems.Topics-Thread_synchronization-Initialize_fields_only_once.main" />
+        <module name="Java_Problems.Topics-toString__-Account.test" />
+        <module name="Java_Problems.Topics-Default_methods-Resolve_a_diamond_problem.test" />
+        <module name="Java_Problems.Topics-Function_composition-What_function_is_executed_first.main" />
+        <module name="Java_Problems.Topics-The_Map_interface-Getting_submaps.main" />
+        <module name="Java_Problems.Topics-toString__-Time_as_a_string.main" />
+        <module name="Java_Problems.Topics-Serialization_basics-Theory.test" />
+        <module name="Java_Problems.Topics-Processing_strings-Determine_the_value__1_.test" />
+        <module name="Java_Problems.Topics-The_Map_interface-Counting_words.test" />
+        <module name="Java_Problems.Topics-The_List_interface-Companies.test" />
+        <module name="Java_Problems.Topics-Bean_validation-Add_two_annotations-build-generated-sources-headers-java.test" />
+        <module name="Java_Problems.Topics-LocalDate-Theory.main" />
+        <module name="Java_Problems.Topics-Regexes_in_programs-Card_name_validation_and_identification.main" />
+        <module name="Java_Problems.Topics-Stream_pipelines-Theory.test" />
+        <module name="Java_Problems.Topics-Input_streams-Reverse_input_text.main" />
+        <module name="Java_Problems.Topics-Threads_as_objects-Is_thread_daemon.main" />
+        <module name="Java_Problems.Topics-The_keyword_super-Fix_the_non-compiled_hierarchy.test" />
+        <module name="Java_Problems.Topics-LocalTime-Return_time_without_seconds.test" />
+        <module name="Java_Problems.Topics-Getters_and_setters-Book.test" />
+        <module name="Java_Problems.Topics-Command-Stock_Broker.main" />
+        <module name="Java_Problems.Topics-Streams_of_primitives-Theory.test" />
+        <module name="Java_Problems.Topics-Template_method-Template_Method__1_.test" />
+        <module name="Java_Problems.Topics-Factory_method-Clocks.main" />
+        <module name="Java_Problems.Topics-Thread_synchronization-Theory.test" />
+        <module name="Java_Problems.Topics-Optional-A_suitable_method.main" />
+        <module name="Java_Problems.Topics-Stream_pipelines-The_order_of_execution.main" />
+        <module name="Java_Problems.Topics-The_utility_class_Collections-Theory.main" />
+        <module name="Java_Problems.Topics-Custom_exceptions-Theory.test" />
+        <module name="Java_Problems.Topics-Stream_filtering-Omitting_long_strings.test" />
+        <module name="Java_Problems.Topics-Executors-Check_whether_a_number_is_prime.test" />
+        <module name="Java_Problems.Topics-LocalDate-LocalDate_class.test" />
+        <module name="Java_Problems.Topics-LocalTime-Some_hours_and_minutes_ago.main" />
+        <module name="Java_Problems.Topics-Comparing_dates_and_time-Which_return_true.test" />
+        <module name="Java_Problems.Topics-Infinite_streams-Methods_for_creating_infinite_streams.test" />
+        <module name="Java_Problems.Topics-LocalDateTime-Subtracting_hours_and_adding_minutes.test" />
+        <module name="Java_Problems.Topics-Functional_data_processing_with_streams-Theory.test" />
+        <module name="Java_Problems.Topics-Default_methods-Diamond_problem.test" />
+        <module name="Java_Problems.Topics-Comparing_dates_and_time-What_is_false.main" />
+        <module name="Java_Problems.Topics-Functional_data_processing_with_streams-Intermediate_operations.test" />
+        <module name="Java_Problems.Topics-Regexes_in_programs-Check_IP_address.test" />
+        <module name="Java_Problems.Topics-Static_members-Too_many_cats.test" />
+        <module name="Java_Problems.Topics-Abstract_class-Users_and_WebSites.test" />
+        <module name="Java_Problems.Topics-Inner_classes-Pumpkin_and_candle.main" />
+        <module name="Java_Problems.Topics-Grouping_collectors-Partinioning_and_summing_numbers.main" />
+        <module name="Java_Problems.Topics-Package-Binary_search.test" />
+        <module name="Java_Problems.Topics-Singleton-Given_a_class_named_A.main" />
+        <module name="Java_Problems.Topics-Calling_a_method-Area_of_parallelogram.test" />
+        <module name="Java_Problems.Topics-Command-Theory.test" />
+        <module name="Java_Problems.Topics-Grouping_collectors-Grouping_numbers.main" />
+        <module name="Java_Problems.Topics-Memento-Roll_back.test" />
+        <module name="Java_Problems.Topics-Standard_functional_interfaces-Select_suitable_interfaces.main" />
+        <module name="Java_Problems.Topics-Unit_testing_with_JUnit-Annotation.main" />
+        <module name="Java_Problems.Topics-Optional-Theory.test" />
+        <module name="Java_Problems.Topics-Custom_exceptions-Square_class.test" />
+        <module name="Java_Problems.Topics-The_Map_interface-The_property_of_TreeMap.main" />
+        <module name="Java_Problems.Topics-Nested_classes-Create_class.main" />
+        <module name="Java_Problems.Topics-Exception_handling-Converting_and_multiplying.main" />
+        <module name="Java_Problems.Topics-The_List_interface-Theory.main" />
+        <module name="Java_Problems.Topics-Command-Type_of_Design_Pattern.main" />
+        <module name="Java_Problems.Topics-Decorator-Breakfast_Decorator.main" />
+        <module name="Java_Problems.Topics-Unit_testing_with_JUnit-Theory.main" />
+        <module name="Java_Problems.Topics-Scanning_the_input-Printing_strings_in_the_same_order.test" />
+        <module name="Java_Problems.Topics-Currying-A_correct_lambda_expression.test" />
+        <module name="Java_Problems.Topics-Default_methods-What_is_the_reason_for_default_methods_.main" />
+        <module name="Java_Problems.Topics-Memento-Mutations.main" />
+        <module name="Java_Problems.Topics-Interface-Mutable_geometric_shapes.main" />
+        <module name="Java_Problems.Topics-Inheritance-Theory.main" />
+        <module name="Java_Problems.Topics-Exception_handling-Determine_a_block_for_handling_exceptions.test" />
+        <module name="Java_Problems.Topics-Instance_methods-Complex_numbers.main" />
+        <module name="Java_Problems.Topics-Generics_and_Object-Boxes_are_not_just_objects_.test" />
+        <module name="Java_Problems.Topics-Memento-Undo_and_redo.main" />
+        <module name="Java_Problems.Topics-Facade-Cinema_Facade.test" />
+        <module name="Java_Problems.Topics-Branching_statements-Theory.main" />
+        <module name="Java_Problems.Topics-Comparator-Odd_and_even.main" />
+        <module name="Java_Problems.Topics-Parallel_streams-Getting_the_greater_speedup.main" />
+        <module name="Java_Problems.Topics-Command-line_arguments-Get_the_game_mode.test" />
+        <module name="Java_Problems.Topics-Singleton-Criticism.test" />
+        <module name="Java_Problems.Topics-Command-Use cases.test" />
+        <module name="Java_Problems.Topics-Function_composition-The_chain_of_responsibility.main" />
+        <module name="Java_Problems.Topics-Collectors-Set_average.main" />
+        <module name="Java_Problems.Topics-Grouping_collectors-Palindrome_or_not.test" />
+        <module name="Java_Problems.Topics-Memento-Theory.main" />
+        <module name="Java_Problems.Topics-Nested_classes-Find_min_and_max.main" />
+        <module name="Java_Problems.Topics-Reduction_methods-Reducing_persons_by_ages.main" />
+        <module name="Java_Problems.util.test" />
+        <module name="Java_Problems.Topics-Generic_methods-Print_content.main" />
+        <module name="Java_Problems.Topics-Threads_as_objects-Thread_name.main" />
+        <module name="Java_Problems.Topics-What_is_an_exception-Theory.main" />
+        <module name="Java_Problems.Topics-Thread_synchronization-What_is_wrong.main" />
+        <module name="Java_Problems.Topics-Factory_method-Motors.main" />
+        <module name="Java_Problems.Topics-Abstract_factory-Laptop_factory.test" />
+        <module name="Java_Problems.Topics-Grouping_collectors-Counting_clicks.main" />
+        <module name="Java_Problems.Topics-LocalDate-Methods_of_LocalDate.main" />
+        <module name="Java_Problems.Topics-Multidimensional_array-Fill_the_matrix_by_numbers.test" />
+        <module name="Java_Problems.Topics-The_keyword_super-Employees.main" />
+        <module name="Java_Problems.Topics-Optional-What_is_Optional.test" />
+        <module name="Java_Problems.Topics-Currying-Applying_a_number.main" />
+        <module name="Java_Problems.Topics-The_Map_interface-Modifying_a_map.main" />
+        <module name="Java_Problems.Topics-Getters_and_setters-Getting_the_fullname.main" />
+        <module name="Java_Problems.Topics-Static_members-Detail_manufacturing.test" />
+        <module name="Java_Problems.Topics-The_Set_interface-Removing_elements.main" />
+        <module name="Java_Problems.Topics-Custom_serialization-Serializing_integers.test" />
+        <module name="Java_Problems.Topics-Comparable-Implement_compareTo_method.main" />
+        <module name="Java_Problems.Topics-Printing_data-Printing_a_magic_letter.main" />
+        <module name="Java_Problems.Topics-Command-Real-World_examples.test" />
+        <module name="Java_Problems.Topics-LocalDateTime-Add_days_and_subtract_hours.test" />
+        <module name="Java_Problems.Topics-Functional_data_processing_with_streams-Create_a_stream_from_a_list.test" />
+        <module name="Java_Problems.Topics-Printing_data-The_result_of_a_Tic-Tac-Toe_game.test" />
+        <module name="Java_Problems.Topics-Bean_validation-Add_two_annotations-build-reports-tests.main" />
+        <module name="Java_Problems.Topics-LocalTime-Seconds_between_two_time_points.main" />
+        <module name="Java_Problems.Topics-Singleton-Complete_the_eager_singleton.main" />
+        <module name="Java_Problems.Topics-Currying-Multifunctional_mapper.main" />
+        <module name="Java_Problems.Topics-Comparing_dates_and_time-Is_after,_is_before.test" />
+        <module name="Java_Problems.Topics-Method_references-Ascending_and_descending_sorting.main" />
+        <module name="Java_Problems.Topics-Bean_validation-Add_two_annotations-build-generated-sources-annotationProcessor-java.main" />
+        <module name="Java_Problems.Topics-Queue_and_Stack-The_LIFO_principle_in_action.main" />
+        <module name="Java_Problems.Topics-What_is_an_exception-Avoid_division_by_zero.test" />
+        <module name="Java_Problems.Topics-Processing_strings-The_longest_word.test" />
+        <module name="Java_Problems.Topics-Regexes_in_programs-Check_the_clock_time.test" />
+        <module name="Java_Problems.Topics-LocalDateTime-Add_11_hours_and_print_the_date.test" />
+        <module name="Java_Problems.Topics-Stream_pipelines-Programming_paradigms.test" />
+        <module name="Java_Problems.Topics-Abstract_class-Theory.main" />
+        <module name="Java_Problems.Topics-Throwing_exceptions-Throw_an_unchecked_exception.test" />
+        <module name="Java_Problems.Topics-Static_members-Project_constants_and_methods.main" />
+        <module name="Java_Problems.Topics-The_utility_class_Collections-The_first_index_of_a_sublist.test" />
+        <module name="Java_Problems.Topics-Hiding_and_overriding-Shapes_area.main" />
+        <module name="Java_Problems.Topics-Grouping_collectors-Teeing_collector.test" />
+        <module name="Java_Problems.Topics-Input_streams-Theory.test" />
+        <module name="Java_Problems.Topics-Increment_and_decrement-Decrement_all.test" />
+        <module name="Java_Problems.Topics-Executors-Messaging.test" />
+        <module name="Java_Problems.Topics-Abstract_factory-Theory.main" />
+        <module name="Java_Problems.Topics-Introduction_to_generic_programming-Pastry_packing_optimization.main" />
+        <module name="Java_Problems.Topics-Comparing_dates_and_time-The_New_Year_is_coming__or_not_.test" />
+        <module name="Java_Problems.Topics-Generic_methods-Invert_an_array.test" />
+        <module name="Java_Problems.Topics-Comparator-Comparing_numbers.main" />
+        <module name="Java_Problems.Topics-toString__-Convert_vehicles_and_cars_to_string.test" />
+        <module name="Java_Problems.Topics-Optional-The_address_book.test" />
+        <module name="Java_Problems.Topics-Comparing_dates_and_time-What_is_true.main" />
+        <module name="Java_Problems.Topics-Functional_data_processing_with_streams-Create_a_stream_from_a_list.main" />
+        <module name="Java_Problems.Topics-Comparing_dates_and_time-Which_return_true.main" />
+        <module name="Java_Problems.Topics-Processing_strings-Move_the_first_N_characters.main" />
+        <module name="Java_Problems.Topics-The_List_interface-Companies.main" />
+        <module name="Java_Problems.Topics-Default_methods-Resolve_a_diamond_problem.main" />
+        <module name="Java_Problems.Topics-LocalDateTime-Add_days_and_subtract_hours.main" />
+        <module name="Java_Problems.Topics-Factory_method-Robot_factory.test" />
+        <module name="Java_Problems.Topics-Functional_data_processing_with_streams-Count_passwords.test" />
+        <module name="Java_Problems.Topics-The_keyword_super-Bank_account.test" />
+        <module name="Java_Problems.Topics-Standard_functional_interfaces-Functional_interfaces_utilization.main" />
+        <module name="Java_Problems.Topics-The_Map_interface-The_property_of_TreeMap.test" />
+        <module name="Java_Problems.Topics-Scanning_the_input-Guest_list_of_a_hotel.main" />
+        <module name="Java_Problems.Topics-Singleton-A_singleton_has.main" />
+        <module name="Java_Problems.Topics-Standard_functional_interfaces-Select_suitable_interfaces.test" />
+        <module name="Java_Problems.Topics-Template_method-Template_Method__1_.main" />
+        <module name="Java_Problems.Topics-The_utility_class_Collections-Sorting_sequences.test" />
+        <module name="Java_Problems.Topics-Thread_management-Sleep.main" />
+        <module name="Java_Problems.Topics-Stream_pipelines-The_total_number_of_employees.test" />
+        <module name="Java_Problems.Topics-Template_method-Theory.main" />
+        <module name="Java_Problems.Topics-Exception_handling-What_exceptions_can_be_handled.test" />
+        <module name="Java_Problems.Topics-Collectors-The_product_of_squares.main" />
+        <module name="Java_Problems.Topics-Serialization_basics-Theory.main" />
+        <module name="Java_Problems.Topics-Optional-Theory.main" />
+        <module name="Java_Problems.Topics-Optional-A_suitable_method.test" />
+        <module name="Java_Problems.Topics-Anonymous_classes-And_always_these_rules.main" />
+        <module name="Java_Problems.Topics-LocalDate-The_last_day_of_a_month.test" />
+        <module name="Java_Problems.Topics-The_keyword_super-Theory.test" />
+        <module name="Java_Problems.Topics-Getters_and_setters-Book.main" />
+        <module name="Java_Problems.Topics-The_utility_class_Collections-Collection_class_basics.main" />
+        <module name="Java_Problems.Topics-Lambda_expressions-Parts_of code.test" />
+        <module name="Java_Problems.Topics-Defining_classes-Accounts.test" />
+        <module name="Java_Problems.Topics-Collectors-Set_average.test" />
+        <module name="Java_Problems.Topics-Bean_validation-Add_two_annotations-build-reports-tests.test" />
+        <module name="Java_Problems.Topics-Default_methods-Theory.test" />
+        <module name="Java_Problems.Topics-Hiding_and_overriding-Theory.main" />
+        <module name="Java_Problems.Topics-Processing_strings-The_lucky_ticket.test" />
+        <module name="Java_Problems.Topics-Default_methods-Default_method's_body_.main" />
+        <module name="Java_Problems.Topics-Processing_strings-Convert_a_date.main" />
+        <module name="Java_Problems.Topics-Branching_statements-Theory.test" />
+        <module name="Java_Problems.Topics-Grouping_collectors-Partinioning_and_summing_numbers.test" />
+        <module name="Java_Problems.Topics-The_Map_interface-Determine_values_of_variables.test" />
+        <module name="Java_Problems.Topics-Threads_as_objects-Thread_name.test" />
+        <module name="Java_Problems.Topics-Custom_exceptions-DriverNotReadyException.test" />
+        <module name="Java_Problems.Topics-NPE-Avoid_NPE.test" />
+        <module name="Java_Problems.Topics-Polymorphism-Theory.test" />
+        <module name="Java_Problems.Topics-Abstract_class-IntBinaryOperation.main" />
+        <module name="Java_Problems.Topics-Stream_pipelines-Possible_pipelines.main" />
+        <module name="Java_Problems.Topics-Custom_exceptions-Square_class.main" />
+        <module name="Java_Problems.Topics-Comparator-Theory.test" />
+        <module name="Java_Problems.Topics-Generic_methods-Check_for_null.main" />
+        <module name="Java_Problems.Topics-Bean_validation-Add_two_annotations-build-classes-java.main" />
+        <module name="Java_Problems.Topics-Functional_data_processing_with_streams-Theory.main" />
+        <module name="Java_Problems.Topics-Boxing_and_unboxing-Safe_converting.main" />
+        <module name="Java_Problems.Topics-Stream_pipelines-Counting_words.test" />
+        <module name="Java_Problems.Topics-Comparing_dates_and_time-What_is_false.test" />
+        <module name="Java_Problems.Topics-Command-Type_of_Design_Pattern.test" />
+        <module name="Java_Problems.Topics-Parallel_streams-Inverting_streams.main" />
+        <module name="Java_Problems.Topics-Parallel_streams-The_ordered_sequence.test" />
+        <module name="Java_Problems.Topics-Thread_synchronization-Theory.main" />
+        <module name="Java_Problems.Topics-LocalDate-LocalDate_class.main" />
+        <module name="Java_Problems.Topics-Abstract_class-Users_and_WebSites.main" />
+        <module name="Java_Problems.Topics-Unit_testing_with_JUnit-An_empty_test.test" />
+        <module name="Java_Problems.Topics-Streams_of_primitives-Theory.main" />
+        <module name="Java_Problems.Topics-Custom_serialization-Custom_serialization_behavior.main" />
+        <module name="Java_Problems.Topics-Inner_classes-Pumpkin_and_candle.test" />
+        <module name="Java_Problems.Topics-LocalDateTime-Subtracting_hours_and_adding_minutes.main" />
+        <module name="Java_Problems.Topics-Thread_synchronization-Initialize_fields_only_once.test" />
+        <module name="Java_Problems.Topics-Inner_classes-Christmas_tree.main" />
+        <module name="Java_Problems.Topics-Functional_data_processing_with_streams-Intermediate_operations.main" />
+        <module name="Java_Problems.Topics-Comparing_dates_and_time-The_New_Year_is_coming__or_not_.main" />
+        <module name="Java_Problems.Topics-Default_methods-Add_new_default_method.test" />
+        <module name="Java_Problems.Topics-Arrays_as_parameters-Adding_values.main" />
+        <module name="Java_Problems.Topics-Input_streams-Count_words.main" />
+        <module name="Java_Problems.Topics-Processing_strings-The_longest_word.main" />
+        <module name="Java_Problems.Topics-Processing_strings-Compression_algorithm.main" />
+        <module name="Java_Problems.Topics-Regexes_in_programs-Check_the_clock_time.main" />
+        <module name="Java_Problems.util.main" />
+        <module name="Java_Problems.Topics-Memento-Components.main" />
+        <module name="Java_Problems.Topics-Grouping_collectors-Teeing_collector.main" />
+        <module name="Java_Problems.Topics-Command-line_arguments__1_-Get_the_game_mode.test" />
+        <module name="Java_Problems.Topics-Optional-What_is_Optional.main" />
+        <module name="Java_Problems.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.test" />
+        <module name="Java_Problems.Topics-LocalDate-Similar_date.test" />
+        <module name="Java_Problems.Topics-LocalDate-2_weeks_after.test" />
+        <module name="Java_Problems.Topics-Calling_a_method-Theory.test" />
+        <module name="Java_Problems.Topics-Currying-Applying_a_number.test" />
+        <module name="Java_Problems.Topics-Generics_and_Object-Correct_the_usage_of_non-generic_class.test" />
+        <module name="Java_Problems.Topics-toString__-String_representation.test" />
+        <module name="Java_Problems.Topics-Declaring_a_method-Theory.test" />
+        <module name="Java_Problems.Topics-Memento-Mutations.test" />
+        <module name="Java_Problems.Topics-Custom_serialization-Initialize_transient_fields.test" />
+        <module name="Java_Problems.Topics-Scanning_the_input-Printing_strings_in_the_same_order.main" />
+        <module name="Java_Problems.Topics-Anonymous_classes-An_anonymous_class_with_three_methods.main" />
+        <module name="Java_Problems.Topics-Parallel_streams-Getting_the_greater_speedup.test" />
+        <module name="Java_Problems.Topics-Multidimensional_array-Reverse_elements.test" />
+        <module name="Java_Problems.Topics-Processing_strings-Palindrome.main" />
+        <module name="Java_Problems.Topics-Custom_serialization-Serialization_mystery.main" />
+        <module name="Java_Problems.Topics-LocalTime-Seconds_between_two_time_points.test" />
+        <module name="Java_Problems.Topics-Static_members-Too_many_cats.main" />
+        <module name="Java_Problems.Topics-Custom_threads-Possible_order_of_the_output_strings.test" />
+        <module name="Java_Problems.Topics-Nested_classes-Find_min_and_max.test" />
+        <module name="Java_Problems.Topics-Singleton-Given_a_class_named_A.test" />
+        <module name="Java_Problems.Topics-Command-Use cases.main" />
+        <module name="Java_Problems.Topics-Lambda_expressions-Creating_a_closure.test" />
+        <module name="Java_Problems.Topics-Static_members-Project_constants_and_methods.test" />
+        <module name="Java_Problems.Topics-LocalDateTime-Adding_N_minutes.main" />
+        <module name="Java_Problems.Topics-Stream_pipelines-Theory.main" />
+        <module name="Java_Problems.Topics-Hierarchy_of_exceptions-Base_class.test" />
+        <module name="Java_Problems.Topics-Declaring_a_method-Calculating_factorials.main" />
+        <module name="Java_Problems.Topics-Inheritance-Theory.test" />
+        <module name="Java_Problems.Topics-Getters_and_setters-Account.main" />
+        <module name="Java_Problems.Topics-Multidimensional_array-Maximum_element_in_a_matrix.test" />
+        <module name="Java_Problems.Topics-Threads_as_objects-Is_thread_daemon.test" />
+        <module name="Java_Problems.Topics-Stream_pipelines-Programming_paradigms.main" />
+        <module name="Java_Problems.Topics-Generic_methods-Invert_an_array.main" />
+        <module name="Java_Problems.Topics-Increment_and_decrement-Theory.main" />
+        <module name="Java_Problems.Topics-The_Map_interface-Modifying_a_map.test" />
+        <module name="Java_Problems.Topics-Command-line_arguments__1_-Theory.test" />
+        <module name="Java_Problems.Topics-Comparator-Comparing_values.test" />
+        <module name="Java_Problems.Topics-Command-Remote_Controller.test" />
+        <module name="Java_Problems.Topics-Executors-Messaging.main" />
+        <module name="Java_Problems.Topics-Lambda_expressions-Apply_function_to_all_elements.main" />
+        <module name="Java_Problems.Topics-Grouping_collectors-The_total_sum_of_transaction_by_each_account.test" />
+        <module name="Java_Problems.Topics-toString__-Users_as_strings.main" />
+        <module name="Java_Problems.Topics-Streams_of_primitives-Producing_streams.test" />
+        <module name="Java_Problems.Topics-Thread_synchronization-Synchronize_the_code.main" />
+        <module name="Java_Problems.Topics-Generics_and_Object-Boxes_are_not_just_objects_.main" />
+        <module name="Java_Problems.Topics-Printing_data-Printing_a_magic_letter.test" />
+        <module name="Java_Problems.Topics-The_Set_interface-Removing_elements.test" />
+        <module name="Java_Problems.Topics-ArrayList-Concat_positive_numbers.test" />
+        <module name="Java_Problems.Topics-The_Map_interface-Basics_of_Maps.test" />
+        <module name="Java_Problems.Topics-Unit_testing_with_JUnit-Theory.test" />
+        <module name="Java_Problems.Topics-Static_members-Detail_manufacturing.main" />
+        <module name="Java_Problems.Topics-Thread_management-Calculate_the_number_of_distinct_characters.main" />
+        <module name="Java_Problems.Topics-Throwing_exceptions-Throw_an_unchecked_exception.main" />
+        <module name="Java_Problems.Topics-Declaring_a_method-The_sign_of_a_number.main" />
+        <module name="Java_Problems.Topics-Facade-Definition.main" />
+        <module name="Java_Problems.Topics-Method_references-Ascending_and_descending_sorting.test" />
+        <module name="Java_Problems.Topics-What_is_an_exception-Avoid_division_by_zero.main" />
+        <module name="Java_Problems.Topics-Command-Real-World_examples.main" />
+        <module name="Java_Problems.Topics-Map_and_flatMap-Maximum_of_the_absolute_values.main" />
+        <module name="Java_Problems.Topics-Currying-A_correct_lambda_expression.main" />
+        <module name="Java_Problems.Topics-Parallel_streams-Fix_the_sorting_order.test" />
+        <module name="Java_Problems.Topics-Inner_classes-Improve_your vehicle.test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17">
+      <module name="Java_Problems.Topics-Abstract_class-IntBinaryOperation.main" target="11" />
+      <module name="Java_Problems.Topics-Abstract_class-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Abstract_class-Users_and_WebSites.main" target="11" />
+      <module name="Java_Problems.Topics-Abstract_factory-Burgers.main" target="11" />
+      <module name="Java_Problems.Topics-Abstract_factory-Laptop_factory.main" target="11" />
+      <module name="Java_Problems.Topics-Abstract_factory-Phone_factory.main" target="11" />
+      <module name="Java_Problems.Topics-Abstract_factory-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Anonymous_classes-An_anonymous_class_with_three_methods.main" target="11" />
+      <module name="Java_Problems.Topics-Anonymous_classes-And_always_these_rules.main" target="11" />
+      <module name="Java_Problems.Topics-Anonymous_classes-Find_a_correct_syntax.main" target="11" />
+      <module name="Java_Problems.Topics-Anonymous_classes-String_reverser.main" target="11" />
+      <module name="Java_Problems.Topics-Anonymous_classes-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Anonymous_classes-What_about_context_.main" target="11" />
+      <module name="Java_Problems.Topics-Array-Initializing_an_array_of_longs.main" target="11" />
+      <module name="Java_Problems.Topics-Array-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Array_exceptions-Out_of_bounds_.main" target="11" />
+      <module name="Java_Problems.Topics-Array_exceptions-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-ArrayList-Concat_positive_numbers.main" target="11" />
+      <module name="Java_Problems.Topics-ArrayList-Creating_list.main" target="11" />
+      <module name="Java_Problems.Topics-ArrayList-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Arrays_as_parameters-Adding_values.main" target="11" />
+      <module name="Java_Problems.Topics-Arrays_as_parameters-Get_first_and_last_elements.main" target="11" />
+      <module name="Java_Problems.Topics-Arrays_as_parameters-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Bean_validation-Add_two_annotations-build-classes-java.main" target="11" />
+      <module name="Java_Problems.Topics-Bean_validation-Add_two_annotations-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Java_Problems.Topics-Bean_validation-Add_two_annotations-build-generated-sources-headers-java.main" target="11" />
+      <module name="Java_Problems.Topics-Bean_validation-Add_two_annotations-build-reports-tests.main" target="11" />
+      <module name="Java_Problems.Topics-Bean_validation-Add_two_annotations-build-test-results.main" target="11" />
+      <module name="Java_Problems.Topics-Bean_validation-Add_two_annotations-build-tmp.main" target="11" />
+      <module name="Java_Problems.Topics-Bean_validation-Add_two_annotations.main" target="11" />
+      <module name="Java_Problems.Topics-Bean_validation-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Boxing_and_unboxing-Only_true_or_false.main" target="11" />
+      <module name="Java_Problems.Topics-Boxing_and_unboxing-Safe_converting.main" target="11" />
+      <module name="Java_Problems.Topics-Boxing_and_unboxing-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Branching_statements-Bus_tour.main" target="11" />
+      <module name="Java_Problems.Topics-Branching_statements-Even_or_odd.main" target="11" />
+      <module name="Java_Problems.Topics-Branching_statements-The_sequence.main" target="11" />
+      <module name="Java_Problems.Topics-Branching_statements-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Calling_a_method-Area_of_parallelogram.main" target="11" />
+      <module name="Java_Problems.Topics-Calling_a_method-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Collectors-ASCII_Art.main" target="11" />
+      <module name="Java_Problems.Topics-Collectors-Set_average.main" target="11" />
+      <module name="Java_Problems.Topics-Collectors-The_product_of_squares.main" target="11" />
+      <module name="Java_Problems.Topics-Collectors-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Collectors-Сollect_parameter.main" target="11" />
+      <module name="Java_Problems.Topics-Command-Forex_Broker.main" target="11" />
+      <module name="Java_Problems.Topics-Command-line_arguments-Get_the_game_mode.main" target="11" />
+      <module name="Java_Problems.Topics-Command-line_arguments-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Command-line_arguments__1_-Basic_calculator.main" target="11" />
+      <module name="Java_Problems.Topics-Command-line_arguments__1_-Get_the_game_mode.main" target="11" />
+      <module name="Java_Problems.Topics-Command-line_arguments__1_-How_to_pass_ints.main" target="11" />
+      <module name="Java_Problems.Topics-Command-line_arguments__1_-How_to_start_a_program.main" target="11" />
+      <module name="Java_Problems.Topics-Command-line_arguments__1_-Parameters_and_their_values.main" target="11" />
+      <module name="Java_Problems.Topics-Command-line_arguments__1_-The_index_of_an_argument.main" target="11" />
+      <module name="Java_Problems.Topics-Command-line_arguments__1_-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Command-Participants.main" target="11" />
+      <module name="Java_Problems.Topics-Command-Real-World_examples.main" target="11" />
+      <module name="Java_Problems.Topics-Command-Remote_Controller.main" target="11" />
+      <module name="Java_Problems.Topics-Command-Stock_Broker.main" target="11" />
+      <module name="Java_Problems.Topics-Command-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Command-Type_of_Design_Pattern.main" target="11" />
+      <module name="Java_Problems.Topics-Command-Undo_command.main" target="11" />
+      <module name="Java_Problems.Topics-Command-Use cases.main" target="11" />
+      <module name="Java_Problems.Topics-Comparable-Implement_compareTo_method.main" target="11" />
+      <module name="Java_Problems.Topics-Comparable-Implement_comparing_by_additional_fields.main" target="11" />
+      <module name="Java_Problems.Topics-Comparable-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Comparator-Comparing_numbers.main" target="11" />
+      <module name="Java_Problems.Topics-Comparator-Comparing_values.main" target="11" />
+      <module name="Java_Problems.Topics-Comparator-Method_name.main" target="11" />
+      <module name="Java_Problems.Topics-Comparator-Most_valuable_items.main" target="11" />
+      <module name="Java_Problems.Topics-Comparator-Multiple_fields.main" target="11" />
+      <module name="Java_Problems.Topics-Comparator-Non-abstract_methods.main" target="11" />
+      <module name="Java_Problems.Topics-Comparator-Odd_and_even.main" target="11" />
+      <module name="Java_Problems.Topics-Comparator-Reverse_sorting.main" target="11" />
+      <module name="Java_Problems.Topics-Comparator-Sort_users.main" target="11" />
+      <module name="Java_Problems.Topics-Comparator-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Comparing_dates_and_time-How_many_date-time_pairs_match_the_range.main" target="11" />
+      <module name="Java_Problems.Topics-Comparing_dates_and_time-Is_after,_is_before.main" target="11" />
+      <module name="Java_Problems.Topics-Comparing_dates_and_time-Is_the_date_between_the_two_other_dates.main" target="11" />
+      <module name="Java_Problems.Topics-Comparing_dates_and_time-Select_correct_statements.main" target="11" />
+      <module name="Java_Problems.Topics-Comparing_dates_and_time-The_New_Year_is_coming__or_not_.main" target="11" />
+      <module name="Java_Problems.Topics-Comparing_dates_and_time-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Comparing_dates_and_time-What_is_correct.main" target="11" />
+      <module name="Java_Problems.Topics-Comparing_dates_and_time-What_is_false.main" target="11" />
+      <module name="Java_Problems.Topics-Comparing_dates_and_time-What_is_true.main" target="11" />
+      <module name="Java_Problems.Topics-Comparing_dates_and_time-Which_return_true.main" target="11" />
+      <module name="Java_Problems.Topics-Constructor-Account.main" target="11" />
+      <module name="Java_Problems.Topics-Constructor-Account_and_its_owner.main" target="11" />
+      <module name="Java_Problems.Topics-Constructor-Book.main" target="11" />
+      <module name="Java_Problems.Topics-Constructor-Complex_numbers.main" target="11" />
+      <module name="Java_Problems.Topics-Constructor-Geometric_cube.main" target="11" />
+      <module name="Java_Problems.Topics-Constructor-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Currying-A_correct_lambda_expression.main" target="11" />
+      <module name="Java_Problems.Topics-Currying-Applying_a_number.main" target="11" />
+      <module name="Java_Problems.Topics-Currying-Curried_function.main" target="11" />
+      <module name="Java_Problems.Topics-Currying-Multifunctional_mapper.main" target="11" />
+      <module name="Java_Problems.Topics-Currying-Reducer_operator.main" target="11" />
+      <module name="Java_Problems.Topics-Currying-Returning_functions.main" target="11" />
+      <module name="Java_Problems.Topics-Currying-Statements.main" target="11" />
+      <module name="Java_Problems.Topics-Currying-String_concatenation.main" target="11" />
+      <module name="Java_Problems.Topics-Currying-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Currying-Types_of_a_curried_function.main" target="11" />
+      <module name="Java_Problems.Topics-Custom_exceptions-Checked_exception_with_constructor.main" target="11" />
+      <module name="Java_Problems.Topics-Custom_exceptions-DriverNotReadyException.main" target="11" />
+      <module name="Java_Problems.Topics-Custom_exceptions-Square_class.main" target="11" />
+      <module name="Java_Problems.Topics-Custom_exceptions-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Custom_serialization-Custom_serialization_behavior.main" target="11" />
+      <module name="Java_Problems.Topics-Custom_serialization-Fix_the_bank_account.main" target="11" />
+      <module name="Java_Problems.Topics-Custom_serialization-Included_fields.main" target="11" />
+      <module name="Java_Problems.Topics-Custom_serialization-Initialize_transient_fields.main" target="11" />
+      <module name="Java_Problems.Topics-Custom_serialization-Password_processing.main" target="11" />
+      <module name="Java_Problems.Topics-Custom_serialization-Serialization_mystery.main" target="11" />
+      <module name="Java_Problems.Topics-Custom_serialization-Serializing_integers.main" target="11" />
+      <module name="Java_Problems.Topics-Custom_serialization-The_Range_class.main" target="11" />
+      <module name="Java_Problems.Topics-Custom_serialization-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Custom_threads-Multiple_threads.main" target="11" />
+      <module name="Java_Problems.Topics-Custom_threads-Possible_order_of_the_output_strings.main" target="11" />
+      <module name="Java_Problems.Topics-Custom_threads-Statements_about_starting_threads.main" target="11" />
+      <module name="Java_Problems.Topics-Custom_threads-String_processor.main" target="11" />
+      <module name="Java_Problems.Topics-Custom_threads-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Declaring_a_method-Calculating_factorials.main" target="11" />
+      <module name="Java_Problems.Topics-Declaring_a_method-Sum_of_numbers_in_the_range.main" target="11" />
+      <module name="Java_Problems.Topics-Declaring_a_method-The_sign_of_a_number.main" target="11" />
+      <module name="Java_Problems.Topics-Declaring_a_method-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Decorator-Advantages.main" target="11" />
+      <module name="Java_Problems.Topics-Decorator-Breakfast_Decorator.main" target="11" />
+      <module name="Java_Problems.Topics-Decorator-Coffee_Decorator.main" target="11" />
+      <module name="Java_Problems.Topics-Decorator-Disadvantages.main" target="11" />
+      <module name="Java_Problems.Topics-Decorator-Pizza_Decorator.main" target="11" />
+      <module name="Java_Problems.Topics-Decorator-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Decorator-What_does_the_code_print.main" target="11" />
+      <module name="Java_Problems.Topics-Default_methods-Add_new_default_method.main" target="11" />
+      <module name="Java_Problems.Topics-Default_methods-Default_method's_body_.main" target="11" />
+      <module name="Java_Problems.Topics-Default_methods-Diamond_problem.main" target="11" />
+      <module name="Java_Problems.Topics-Default_methods-Implement_a_default_method.main" target="11" />
+      <module name="Java_Problems.Topics-Default_methods-Resolve_a_diamond_problem.main" target="11" />
+      <module name="Java_Problems.Topics-Default_methods-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Default_methods-What_is_a_result_.main" target="11" />
+      <module name="Java_Problems.Topics-Default_methods-What_is_the_reason_for_default_methods_.main" target="11" />
+      <module name="Java_Problems.Topics-Defining_classes-Accounts.main" target="11" />
+      <module name="Java_Problems.Topics-Defining_classes-Books.main" target="11" />
+      <module name="Java_Problems.Topics-Defining_classes-Inner_boxes.main" target="11" />
+      <module name="Java_Problems.Topics-Defining_classes-Representing_time_as_a_class.main" target="11" />
+      <module name="Java_Problems.Topics-Defining_classes-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Encapsulating_object_creation-Clock_factory.main" target="11" />
+      <module name="Java_Problems.Topics-Encapsulating_object_creation-Motor_static_factory.main" target="11" />
+      <module name="Java_Problems.Topics-Encapsulating_object_creation-Static_factory_methods_for_Time.main" target="11" />
+      <module name="Java_Problems.Topics-Encapsulating_object_creation-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Errors_in_programs-Fix_compile-time_errors.main" target="11" />
+      <module name="Java_Problems.Topics-Errors_in_programs-Fix_the_program.main" target="11" />
+      <module name="Java_Problems.Topics-Errors_in_programs-Print_the_age.main" target="11" />
+      <module name="Java_Problems.Topics-Errors_in_programs-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Errors_in_programs-What's_wrong.main" target="11" />
+      <module name="Java_Problems.Topics-Exception_handling-Catch_all_exceptions.main" target="11" />
+      <module name="Java_Problems.Topics-Exception_handling-Converting_and_multiplying.main" target="11" />
+      <module name="Java_Problems.Topics-Exception_handling-Determine_a_block_for_handling_exceptions.main" target="11" />
+      <module name="Java_Problems.Topics-Exception_handling-Improve_the_program.main" target="11" />
+      <module name="Java_Problems.Topics-Exception_handling-String_to_double_conversion.main" target="11" />
+      <module name="Java_Problems.Topics-Exception_handling-Suitable_keywords.main" target="11" />
+      <module name="Java_Problems.Topics-Exception_handling-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Exception_handling-Theory__1_.main" target="11" />
+      <module name="Java_Problems.Topics-Exception_handling-What_does_the_code_print.main" target="11" />
+      <module name="Java_Problems.Topics-Exception_handling-What_exceptions_can_be_handled.main" target="11" />
+      <module name="Java_Problems.Topics-Executors-Asynchronous_email_sending.main" target="11" />
+      <module name="Java_Problems.Topics-Executors-Check_whether_a_number_is_prime.main" target="11" />
+      <module name="Java_Problems.Topics-Executors-Messaging.main" target="11" />
+      <module name="Java_Problems.Topics-Executors-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Facade-A_disadvantage.main" target="11" />
+      <module name="Java_Problems.Topics-Facade-Cinema_Facade.main" target="11" />
+      <module name="Java_Problems.Topics-Facade-Computer_Facade.main" target="11" />
+      <module name="Java_Problems.Topics-Facade-Definition.main" target="11" />
+      <module name="Java_Problems.Topics-Facade-Log_Search_Facade.main" target="11" />
+      <module name="Java_Problems.Topics-Facade-Smart_house.main" target="11" />
+      <module name="Java_Problems.Topics-Facade-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Facade-Type_of_facade_pattern.main" target="11" />
+      <module name="Java_Problems.Topics-Factory_method-Burger_store.main" target="11" />
+      <module name="Java_Problems.Topics-Factory_method-Clocks.main" target="11" />
+      <module name="Java_Problems.Topics-Factory_method-Laptop_store.main" target="11" />
+      <module name="Java_Problems.Topics-Factory_method-Motors.main" target="11" />
+      <module name="Java_Problems.Topics-Factory_method-Robot.main" target="11" />
+      <module name="Java_Problems.Topics-Factory_method-Robot_factory.main" target="11" />
+      <module name="Java_Problems.Topics-Factory_method-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Files-Are_siblings.main" target="11" />
+      <module name="Java_Problems.Topics-Files-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Files__1_-Are_siblings.main" target="11" />
+      <module name="Java_Problems.Topics-Files__1_-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Function_composition-Determine_the_result.main" target="11" />
+      <module name="Java_Problems.Topics-Function_composition-Disjunct_all.main" target="11" />
+      <module name="Java_Problems.Topics-Function_composition-How_to_compose_predicates_together.main" target="11" />
+      <module name="Java_Problems.Topics-Function_composition-The_chain_of_responsibility.main" target="11" />
+      <module name="Java_Problems.Topics-Function_composition-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Function_composition-What_function_is_executed_first.main" target="11" />
+      <module name="Java_Problems.Topics-Functional_data_processing_with_streams-A_sorted_stream.main" target="11" />
+      <module name="Java_Problems.Topics-Functional_data_processing_with_streams-Count_passwords.main" target="11" />
+      <module name="Java_Problems.Topics-Functional_data_processing_with_streams-Create_a_stream_from_a_list.main" target="11" />
+      <module name="Java_Problems.Topics-Functional_data_processing_with_streams-Finding_max_and_min_elements.main" target="11" />
+      <module name="Java_Problems.Topics-Functional_data_processing_with_streams-Intermediate_operations.main" target="11" />
+      <module name="Java_Problems.Topics-Functional_data_processing_with_streams-Long_ranges.main" target="11" />
+      <module name="Java_Problems.Topics-Functional_data_processing_with_streams-Print_elements_of_a_stream.main" target="11" />
+      <module name="Java_Problems.Topics-Functional_data_processing_with_streams-Statements_about_stream_operations.main" target="11" />
+      <module name="Java_Problems.Topics-Functional_data_processing_with_streams-Statements_about_streams.main" target="11" />
+      <module name="Java_Problems.Topics-Functional_data_processing_with_streams-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Functional_decomposition-Calculator_with_four_methods.main" target="11" />
+      <module name="Java_Problems.Topics-Functional_decomposition-Create_a_full_name.main" target="11" />
+      <module name="Java_Problems.Topics-Functional_decomposition-Decompose_a_math_function.main" target="11" />
+      <module name="Java_Problems.Topics-Functional_decomposition-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Functional_interfaces-A_lambda_expression_with_seven_arguments.main" target="11" />
+      <module name="Java_Problems.Topics-Functional_interfaces-An_invalid_way_to_create_a_functional_interface.main" target="11" />
+      <module name="Java_Problems.Topics-Functional_interfaces-Built-in_classes.main" target="11" />
+      <module name="Java_Problems.Topics-Functional_interfaces-Statements.main" target="11" />
+      <module name="Java_Problems.Topics-Functional_interfaces-Ternary_predicate.main" target="11" />
+      <module name="Java_Problems.Topics-Functional_interfaces-The_requirement.main" target="11" />
+      <module name="Java_Problems.Topics-Functional_interfaces-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Generic_methods-Check_for_null.main" target="11" />
+      <module name="Java_Problems.Topics-Generic_methods-Invert_an_array.main" target="11" />
+      <module name="Java_Problems.Topics-Generic_methods-Print_content.main" target="11" />
+      <module name="Java_Problems.Topics-Generic_methods-The_first_element.main" target="11" />
+      <module name="Java_Problems.Topics-Generic_methods-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Generics_and_Object-Boxes_are_not_just_objects_.main" target="11" />
+      <module name="Java_Problems.Topics-Generics_and_Object-Correct_the_usage_of_non-generic_class.main" target="11" />
+      <module name="Java_Problems.Topics-Generics_and_Object-Initialize_an_object_of_a_generic_class.main" target="11" />
+      <module name="Java_Problems.Topics-Generics_and_Object-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Getters_and_setters-Account.main" target="11" />
+      <module name="Java_Problems.Topics-Getters_and_setters-Book.main" target="11" />
+      <module name="Java_Problems.Topics-Getters_and_setters-Complex.main" target="11" />
+      <module name="Java_Problems.Topics-Getters_and_setters-Getting_the_fullname.main" target="11" />
+      <module name="Java_Problems.Topics-Getters_and_setters-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Grouping_collectors-Counting_clicks.main" target="11" />
+      <module name="Java_Problems.Topics-Grouping_collectors-Downstream_collectors.main" target="11" />
+      <module name="Java_Problems.Topics-Grouping_collectors-Grouping_numbers.main" target="11" />
+      <module name="Java_Problems.Topics-Grouping_collectors-Map_keys.main" target="11" />
+      <module name="Java_Problems.Topics-Grouping_collectors-Palindrome_or_not.main" target="11" />
+      <module name="Java_Problems.Topics-Grouping_collectors-Partinioning_and_summing_numbers.main" target="11" />
+      <module name="Java_Problems.Topics-Grouping_collectors-Splitting_data_with_a_collector.main" target="11" />
+      <module name="Java_Problems.Topics-Grouping_collectors-Teeing_collector.main" target="11" />
+      <module name="Java_Problems.Topics-Grouping_collectors-Teeing_collector_features.main" target="11" />
+      <module name="Java_Problems.Topics-Grouping_collectors-The_total_sum_of_transaction_by_each_account.main" target="11" />
+      <module name="Java_Problems.Topics-Grouping_collectors-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Hiding_and_overriding-Saying_animals.main" target="11" />
+      <module name="Java_Problems.Topics-Hiding_and_overriding-Shapes_area.main" target="11" />
+      <module name="Java_Problems.Topics-Hiding_and_overriding-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Hierarchy_of_exceptions-Base_class.main" target="11" />
+      <module name="Java_Problems.Topics-Hierarchy_of_exceptions-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Increment_and_decrement-Decrement_all.main" target="11" />
+      <module name="Java_Problems.Topics-Increment_and_decrement-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Infinite_streams-Generating_cats.main" target="11" />
+      <module name="Java_Problems.Topics-Infinite_streams-Making_a_stream_finite.main" target="11" />
+      <module name="Java_Problems.Topics-Infinite_streams-Making_a_stream_finite__1_.main" target="11" />
+      <module name="Java_Problems.Topics-Infinite_streams-Methods_for_creating_infinite_streams.main" target="11" />
+      <module name="Java_Problems.Topics-Infinite_streams-Powers_of_two.main" target="11" />
+      <module name="Java_Problems.Topics-Infinite_streams-Select_output.main" target="11" />
+      <module name="Java_Problems.Topics-Infinite_streams-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Infinite_streams-What_does_the_code_print.main" target="11" />
+      <module name="Java_Problems.Topics-Inheritance-Classes_for_Hospital.main" target="11" />
+      <module name="Java_Problems.Topics-Inheritance-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Inner_classes-Christmas_tree.main" target="11" />
+      <module name="Java_Problems.Topics-Inner_classes-Improve_your vehicle.main" target="11" />
+      <module name="Java_Problems.Topics-Inner_classes-New_Inner_class.main" target="11" />
+      <module name="Java_Problems.Topics-Inner_classes-Pumpkin_and_candle.main" target="11" />
+      <module name="Java_Problems.Topics-Inner_classes-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Inner_classes-Your_vehicle.main" target="11" />
+      <module name="Java_Problems.Topics-Input_streams-Byte_vs_character_input_streams.main" target="11" />
+      <module name="Java_Problems.Topics-Input_streams-Convert_to_bytes.main" target="11" />
+      <module name="Java_Problems.Topics-Input_streams-Count_words.main" target="11" />
+      <module name="Java_Problems.Topics-Input_streams-FileInputStream_class.main" target="11" />
+      <module name="Java_Problems.Topics-Input_streams-Read_into_an_array.main" target="11" />
+      <module name="Java_Problems.Topics-Input_streams-Reverse_input_text.main" target="11" />
+      <module name="Java_Problems.Topics-Input_streams-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Instance_methods-Complex_numbers.main" target="11" />
+      <module name="Java_Problems.Topics-Instance_methods-Counter.main" target="11" />
+      <module name="Java_Problems.Topics-Instance_methods-In_a_box.main" target="11" />
+      <module name="Java_Problems.Topics-Instance_methods-Patient_needs_a_doctor.main" target="11" />
+      <module name="Java_Problems.Topics-Instance_methods-Simulating_a_clock.main" target="11" />
+      <module name="Java_Problems.Topics-Instance_methods-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Integer_types_and_operations-Arithmetic_expression.main" target="11" />
+      <module name="Java_Problems.Topics-Integer_types_and_operations-How_many_nuts_each_squirrel_will_get.main" target="11" />
+      <module name="Java_Problems.Topics-Integer_types_and_operations-Snail.main" target="11" />
+      <module name="Java_Problems.Topics-Integer_types_and_operations-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Interface-Account_Service.main" target="11" />
+      <module name="Java_Problems.Topics-Interface-Area_of_a_circle.main" target="11" />
+      <module name="Java_Problems.Topics-Interface-Compact_strings_with_AsciiCharSequence.main" target="11" />
+      <module name="Java_Problems.Topics-Interface-Mutable_geometric_shapes.main" target="11" />
+      <module name="Java_Problems.Topics-Interface-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Introduction_to_generic_programming-Correct_the_program.main" target="11" />
+      <module name="Java_Problems.Topics-Introduction_to_generic_programming-Pastry_packing_optimization.main" target="11" />
+      <module name="Java_Problems.Topics-Introduction_to_generic_programming-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Iterating_over_arrays-Check_if_an_array_contains_two_numbers.main" target="11" />
+      <module name="Java_Problems.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.main" target="11" />
+      <module name="Java_Problems.Topics-Iterating_over_arrays-Sum_array_elements_greater_than_a_value.main" target="11" />
+      <module name="Java_Problems.Topics-Iterating_over_arrays-The_sum_of_array_elements.main" target="11" />
+      <module name="Java_Problems.Topics-Iterating_over_arrays-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Lambda_expressions-Apply_function_to_all_elements.main" target="11" />
+      <module name="Java_Problems.Topics-Lambda_expressions-Creating_a_closure.main" target="11" />
+      <module name="Java_Problems.Topics-Lambda_expressions-Expression_closure.main" target="11" />
+      <module name="Java_Problems.Topics-Lambda_expressions-Expressions.main" target="11" />
+      <module name="Java_Problems.Topics-Lambda_expressions-Max_of_two_integers.main" target="11" />
+      <module name="Java_Problems.Topics-Lambda_expressions-Parts_of code.main" target="11" />
+      <module name="Java_Problems.Topics-Lambda_expressions-Production_of_all_numbers_in_the_range.main" target="11" />
+      <module name="Java_Problems.Topics-Lambda_expressions-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-LocalDate-10_days_before.main" target="11" />
+      <module name="Java_Problems.Topics-LocalDate-2_weeks_after.main" target="11" />
+      <module name="Java_Problems.Topics-LocalDate-30_years_before_and_after.main" target="11" />
+      <module name="Java_Problems.Topics-LocalDate-Convert_numbers_to_days.main" target="11" />
+      <module name="Java_Problems.Topics-LocalDate-Getting_information_on_a_day.main" target="11" />
+      <module name="Java_Problems.Topics-LocalDate-LocalDate_class.main" target="11" />
+      <module name="Java_Problems.Topics-LocalDate-Methods_of_LocalDate.main" target="11" />
+      <module name="Java_Problems.Topics-LocalDate-Print_dates_of_a_year_with_an_offset.main" target="11" />
+      <module name="Java_Problems.Topics-LocalDate-Similar_date.main" target="11" />
+      <module name="Java_Problems.Topics-LocalDate-The_first_and_the_last_day_of_a_month.main" target="11" />
+      <module name="Java_Problems.Topics-LocalDate-The_first_day_of_a_month_or_not.main" target="11" />
+      <module name="Java_Problems.Topics-LocalDate-The_last_day_of_a_month.main" target="11" />
+      <module name="Java_Problems.Topics-LocalDate-The_n-th_day_from_the_end_of_a_month.main" target="11" />
+      <module name="Java_Problems.Topics-LocalDate-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-LocalDate-Working_with_dates.main" target="11" />
+      <module name="Java_Problems.Topics-LocalDateTime-Add_11_hours_and_print_the_date.main" target="11" />
+      <module name="Java_Problems.Topics-LocalDateTime-Add_days_and_subtract_hours.main" target="11" />
+      <module name="Java_Problems.Topics-LocalDateTime-Adding_N_minutes.main" target="11" />
+      <module name="Java_Problems.Topics-LocalDateTime-Merging_date-time_instances.main" target="11" />
+      <module name="Java_Problems.Topics-LocalDateTime-Subtracting_hours_and_adding_minutes.main" target="11" />
+      <module name="Java_Problems.Topics-LocalDateTime-The_passed_hours_since_the_beginning_of_year.main" target="11" />
+      <module name="Java_Problems.Topics-LocalDateTime-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-LocalDateTime-Whole_hours_between_two_date-time_pairs.main" target="11" />
+      <module name="Java_Problems.Topics-LocalTime-Return_time_without_seconds.main" target="11" />
+      <module name="Java_Problems.Topics-LocalTime-Seconds_between_two_time_points.main" target="11" />
+      <module name="Java_Problems.Topics-LocalTime-Seconds_since_start_of_a_day.main" target="11" />
+      <module name="Java_Problems.Topics-LocalTime-Some_hours_and_minutes_ago.main" target="11" />
+      <module name="Java_Problems.Topics-LocalTime-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Map_and_flatMap-Maximum_of_the_absolute_values.main" target="11" />
+      <module name="Java_Problems.Topics-Map_and_flatMap-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Memento-Classification.main" target="11" />
+      <module name="Java_Problems.Topics-Memento-Components.main" target="11" />
+      <module name="Java_Problems.Topics-Memento-Downsides.main" target="11" />
+      <module name="Java_Problems.Topics-Memento-Mutations.main" target="11" />
+      <module name="Java_Problems.Topics-Memento-Roll_back.main" target="11" />
+      <module name="Java_Problems.Topics-Memento-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Memento-Undo_and_redo.main" target="11" />
+      <module name="Java_Problems.Topics-Memento-Use_cases.main" target="11" />
+      <module name="Java_Problems.Topics-Memento-Visualization_of_state.main" target="11" />
+      <module name="Java_Problems.Topics-Method_references-A_method_reference.main" target="11" />
+      <module name="Java_Problems.Topics-Method_references-Ascending_and_descending_sorting.main" target="11" />
+      <module name="Java_Problems.Topics-Method_references-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Multidimensional_array-Cinema.main" target="11" />
+      <module name="Java_Problems.Topics-Multidimensional_array-Create_cube.main" target="11" />
+      <module name="Java_Problems.Topics-Multidimensional_array-Fill_the_matrix_by_numbers.main" target="11" />
+      <module name="Java_Problems.Topics-Multidimensional_array-Find_the_corners.main" target="11" />
+      <module name="Java_Problems.Topics-Multidimensional_array-Maximum_element_in_a_matrix.main" target="11" />
+      <module name="Java_Problems.Topics-Multidimensional_array-Reverse_elements.main" target="11" />
+      <module name="Java_Problems.Topics-Multidimensional_array-Rotate_a_rectangle_array.main" target="11" />
+      <module name="Java_Problems.Topics-Multidimensional_array-Symmetric_matrix.main" target="11" />
+      <module name="Java_Problems.Topics-Multidimensional_array-The_star_figure.main" target="11" />
+      <module name="Java_Problems.Topics-Multidimensional_array-The_third_row.main" target="11" />
+      <module name="Java_Problems.Topics-Multidimensional_array-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Nested_classes-Create_class.main" target="11" />
+      <module name="Java_Problems.Topics-Nested_classes-Create_prototype.main" target="11" />
+      <module name="Java_Problems.Topics-Nested_classes-Find_min_and_max.main" target="11" />
+      <module name="Java_Problems.Topics-Nested_classes-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-NPE-Avoid_NPE.main" target="11" />
+      <module name="Java_Problems.Topics-NPE-Avoid_NPE_with_strings.main" target="11" />
+      <module name="Java_Problems.Topics-NPE-Return_empty_string_when_argument_is_null.main" target="11" />
+      <module name="Java_Problems.Topics-NPE-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-NPE-Unknown_input.main" target="11" />
+      <module name="Java_Problems.Topics-Objects-Change_identities.main" target="11" />
+      <module name="Java_Problems.Topics-Objects-Preparing_full_name.main" target="11" />
+      <module name="Java_Problems.Topics-Objects-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Optional-A_suitable_method.main" target="11" />
+      <module name="Java_Problems.Topics-Optional-Avoiding_exceptions.main" target="11" />
+      <module name="Java_Problems.Topics-Optional-Check_an_Optional_value.main" target="11" />
+      <module name="Java_Problems.Topics-Optional-Create_an_Optional_value.main" target="11" />
+      <module name="Java_Problems.Topics-Optional-Sum_up_optional_values.main" target="11" />
+      <module name="Java_Problems.Topics-Optional-The_address_book.main" target="11" />
+      <module name="Java_Problems.Topics-Optional-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Optional-What_is_Optional.main" target="11" />
+      <module name="Java_Problems.Topics-Output_streams-Convert_to_char_array.main" target="11" />
+      <module name="Java_Problems.Topics-Output_streams-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Package-Binary_search.main" target="11" />
+      <module name="Java_Problems.Topics-Package-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Parallel_streams-Fix_the_sorting_order.main" target="11" />
+      <module name="Java_Problems.Topics-Parallel_streams-Getting_the_greater_speedup.main" target="11" />
+      <module name="Java_Problems.Topics-Parallel_streams-Inverting_streams.main" target="11" />
+      <module name="Java_Problems.Topics-Parallel_streams-Parallel_reducing.main" target="11" />
+      <module name="Java_Problems.Topics-Parallel_streams-Prime_numbers.main" target="11" />
+      <module name="Java_Problems.Topics-Parallel_streams-The_ordered_sequence.main" target="11" />
+      <module name="Java_Problems.Topics-Parallel_streams-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Polymorphism-Find_mistake.main" target="11" />
+      <module name="Java_Problems.Topics-Polymorphism-Publication_and_its_subclasses.main" target="11" />
+      <module name="Java_Problems.Topics-Polymorphism-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Printing_data-Digits_from_0_to_9_backwards.main" target="11" />
+      <module name="Java_Problems.Topics-Printing_data-First,_second,_third.main" target="11" />
+      <module name="Java_Problems.Topics-Printing_data-From_0_to_4.main" target="11" />
+      <module name="Java_Problems.Topics-Printing_data-Printing_a_magic_letter.main" target="11" />
+      <module name="Java_Problems.Topics-Printing_data-The_result_of_a_Tic-Tac-Toe_game.main" target="11" />
+      <module name="Java_Problems.Topics-Printing_data-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Printing_data-We_need_to_learn_Java.main" target="11" />
+      <module name="Java_Problems.Topics-Processing_strings-Compression_algorithm.main" target="11" />
+      <module name="Java_Problems.Topics-Processing_strings-Convert_a_date.main" target="11" />
+      <module name="Java_Problems.Topics-Processing_strings-Create_an_euphonious_word.main" target="11" />
+      <module name="Java_Problems.Topics-Processing_strings-Cutting_out_the_middle_of_a_string.main" target="11" />
+      <module name="Java_Problems.Topics-Processing_strings-Determine_the_output.main" target="11" />
+      <module name="Java_Problems.Topics-Processing_strings-Determine_the_value.main" target="11" />
+      <module name="Java_Problems.Topics-Processing_strings-Determine_the_value__1_.main" target="11" />
+      <module name="Java_Problems.Topics-Processing_strings-Double_characters.main" target="11" />
+      <module name="Java_Problems.Topics-Processing_strings-Move_the_first_N_characters.main" target="11" />
+      <module name="Java_Problems.Topics-Processing_strings-Number_of_occurrences.main" target="11" />
+      <module name="Java_Problems.Topics-Processing_strings-Palindrome.main" target="11" />
+      <module name="Java_Problems.Topics-Processing_strings-Piece_of_alphabet.main" target="11" />
+      <module name="Java_Problems.Topics-Processing_strings-The_longest_word.main" target="11" />
+      <module name="Java_Problems.Topics-Processing_strings-The_lucky_ticket.main" target="11" />
+      <module name="Java_Problems.Topics-Processing_strings-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Queue_and_Stack-The_LIFO_principle_in_action.main" target="11" />
+      <module name="Java_Problems.Topics-Queue_and_Stack-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Queue_and_Stack-Working_with_queue.main" target="11" />
+      <module name="Java_Problems.Topics-Reduction_methods-Calculating_factorials.main" target="11" />
+      <module name="Java_Problems.Topics-Reduction_methods-Range_quadratic_sum.main" target="11" />
+      <module name="Java_Problems.Topics-Reduction_methods-Reduce-like_operations.main" target="11" />
+      <module name="Java_Problems.Topics-Reduction_methods-Reduce_operations.main" target="11" />
+      <module name="Java_Problems.Topics-Reduction_methods-Reducing_persons_by_ages.main" target="11" />
+      <module name="Java_Problems.Topics-Reduction_methods-Statements.main" target="11" />
+      <module name="Java_Problems.Topics-Reduction_methods-Sum_of_divisors.main" target="11" />
+      <module name="Java_Problems.Topics-Reduction_methods-The_count_operation.main" target="11" />
+      <module name="Java_Problems.Topics-Reduction_methods-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Reflection_basics-Declared_fields.main" target="11" />
+      <module name="Java_Problems.Topics-Reflection_basics-Field_count.main" target="11" />
+      <module name="Java_Problems.Topics-Reflection_basics-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Regexes_in_programs-Card_name_validation_and_identification.main" target="11" />
+      <module name="Java_Problems.Topics-Regexes_in_programs-Check_IP_address.main" target="11" />
+      <module name="Java_Problems.Topics-Regexes_in_programs-Check_the_clock_time.main" target="11" />
+      <module name="Java_Problems.Topics-Regexes_in_programs-Check_the_date.main" target="11" />
+      <module name="Java_Problems.Topics-Regexes_in_programs-Ignoring_spaces.main" target="11" />
+      <module name="Java_Problems.Topics-Regexes_in_programs-Illegal_identifiers.main" target="11" />
+      <module name="Java_Problems.Topics-Regexes_in_programs-Safe_password.main" target="11" />
+      <module name="Java_Problems.Topics-Regexes_in_programs-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Regexes_in_programs-Vehicle_registration_number.main" target="11" />
+      <module name="Java_Problems.Topics-Scanning_the_input-Guest_list_of_a_hotel.main" target="11" />
+      <module name="Java_Problems.Topics-Scanning_the_input-Hiring_a_chef.main" target="11" />
+      <module name="Java_Problems.Topics-Scanning_the_input-Print_strings_in_the_reverse_order.main" target="11" />
+      <module name="Java_Problems.Topics-Scanning_the_input-Printing_strings_in_the_same_order.main" target="11" />
+      <module name="Java_Problems.Topics-Scanning_the_input-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Serialization_basics-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Singleton-A_singleton_has.main" target="11" />
+      <module name="Java_Problems.Topics-Singleton-Bad_singleton.main" target="11" />
+      <module name="Java_Problems.Topics-Singleton-Complete_a_class.main" target="11" />
+      <module name="Java_Problems.Topics-Singleton-Complete_the_eager_singleton.main" target="11" />
+      <module name="Java_Problems.Topics-Singleton-Criticism.main" target="11" />
+      <module name="Java_Problems.Topics-Singleton-Given_a_class_named_A.main" target="11" />
+      <module name="Java_Problems.Topics-Singleton-Printing_data_of_a_singleton.main" target="11" />
+      <module name="Java_Problems.Topics-Singleton-Select_statements.main" target="11" />
+      <module name="Java_Problems.Topics-Singleton-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Standard_functional_interfaces-Accounts.main" target="11" />
+      <module name="Java_Problems.Topics-Standard_functional_interfaces-An_infinite_numbers_supplier.main" target="11" />
+      <module name="Java_Problems.Topics-Standard_functional_interfaces-Describe_the_function.main" target="11" />
+      <module name="Java_Problems.Topics-Standard_functional_interfaces-Functional_interfaces_utilization.main" target="11" />
+      <module name="Java_Problems.Topics-Standard_functional_interfaces-Package_java.util.function.main" target="11" />
+      <module name="Java_Problems.Topics-Standard_functional_interfaces-Select_suitable_interfaces.main" target="11" />
+      <module name="Java_Problems.Topics-Standard_functional_interfaces-Ternary_operator.main" target="11" />
+      <module name="Java_Problems.Topics-Standard_functional_interfaces-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Static_members-Detail_manufacturing.main" target="11" />
+      <module name="Java_Problems.Topics-Static_members-Project_constants_and_methods.main" target="11" />
+      <module name="Java_Problems.Topics-Static_members-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Static_members-Time_constants.main" target="11" />
+      <module name="Java_Problems.Topics-Static_members-Too_many_cats.main" target="11" />
+      <module name="Java_Problems.Topics-Stream_filtering-Bad_words_detecting.main" target="11" />
+      <module name="Java_Problems.Topics-Stream_filtering-Check_if_a_number_is_prime.main" target="11" />
+      <module name="Java_Problems.Topics-Stream_filtering-Numbers_filtering.main" target="11" />
+      <module name="Java_Problems.Topics-Stream_filtering-Omitting_long_strings.main" target="11" />
+      <module name="Java_Problems.Topics-Stream_filtering-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Stream_pipelines-Counting_words.main" target="11" />
+      <module name="Java_Problems.Topics-Stream_pipelines-Possible_pipelines.main" target="11" />
+      <module name="Java_Problems.Topics-Stream_pipelines-Programming_paradigms.main" target="11" />
+      <module name="Java_Problems.Topics-Stream_pipelines-The_order_of_execution.main" target="11" />
+      <module name="Java_Problems.Topics-Stream_pipelines-The_peek_method.main" target="11" />
+      <module name="Java_Problems.Topics-Stream_pipelines-The_sum_of_odd_numbers.main" target="11" />
+      <module name="Java_Problems.Topics-Stream_pipelines-The_ten_most_frequent_words.main" target="11" />
+      <module name="Java_Problems.Topics-Stream_pipelines-The_total_number_of_employees.main" target="11" />
+      <module name="Java_Problems.Topics-Stream_pipelines-The_total_sum_of_canceled_transactions.main" target="11" />
+      <module name="Java_Problems.Topics-Stream_pipelines-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Stream_pipelines-Using_streams_many_times.main" target="11" />
+      <module name="Java_Problems.Topics-Stream_pipelines-What_is_the_result.main" target="11" />
+      <module name="Java_Problems.Topics-Streams_of_primitives-A_stream_without_zero.main" target="11" />
+      <module name="Java_Problems.Topics-Streams_of_primitives-Producing_streams.main" target="11" />
+      <module name="Java_Problems.Topics-Streams_of_primitives-The_average_salary.main" target="11" />
+      <module name="Java_Problems.Topics-Streams_of_primitives-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Taking_elements-Secret_codes.main" target="11" />
+      <module name="Java_Problems.Topics-Taking_elements-Sorting_and_skipping_numbers.main" target="11" />
+      <module name="Java_Problems.Topics-Taking_elements-The_behavior_of_a_method.main" target="11" />
+      <module name="Java_Problems.Topics-Taking_elements-The_name_of_a_method.main" target="11" />
+      <module name="Java_Problems.Topics-Taking_elements-The_name_of_a_method__1_.main" target="11" />
+      <module name="Java_Problems.Topics-Taking_elements-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Template_method-Template_Method.main" target="11" />
+      <module name="Java_Problems.Topics-Template_method-Template_Method__1_.main" target="11" />
+      <module name="Java_Problems.Topics-Template_method-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-The_Collections_Framework_overview-Squares_list.main" target="11" />
+      <module name="Java_Problems.Topics-The_Collections_Framework_overview-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-The_keyword_super-Bank_account.main" target="11" />
+      <module name="Java_Problems.Topics-The_keyword_super-Employees.main" target="11" />
+      <module name="Java_Problems.Topics-The_keyword_super-Fix_the_non-compiled_hierarchy.main" target="11" />
+      <module name="Java_Problems.Topics-The_keyword_super-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-The_List_interface-Companies.main" target="11" />
+      <module name="Java_Problems.Topics-The_List_interface-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-The_main_method-Print__We_are_robots_.main" target="11" />
+      <module name="Java_Problems.Topics-The_main_method-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-The_Map_interface-Basics_of_Maps.main" target="11" />
+      <module name="Java_Problems.Topics-The_Map_interface-Counting_words.main" target="11" />
+      <module name="Java_Problems.Topics-The_Map_interface-Creating_a_map.main" target="11" />
+      <module name="Java_Problems.Topics-The_Map_interface-Determine_values_of_variables.main" target="11" />
+      <module name="Java_Problems.Topics-The_Map_interface-Displaying_pairs.main" target="11" />
+      <module name="Java_Problems.Topics-The_Map_interface-Existing_implementations.main" target="11" />
+      <module name="Java_Problems.Topics-The_Map_interface-Getting_submaps.main" target="11" />
+      <module name="Java_Problems.Topics-The_Map_interface-Kidnapper_of_Ice_cream.main" target="11" />
+      <module name="Java_Problems.Topics-The_Map_interface-Modifying_a_map.main" target="11" />
+      <module name="Java_Problems.Topics-The_Map_interface-The_property_of_TreeMap.main" target="11" />
+      <module name="Java_Problems.Topics-The_Map_interface-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-The_Set_interface-Creating_a_set.main" target="11" />
+      <module name="Java_Problems.Topics-The_Set_interface-Removing_elements.main" target="11" />
+      <module name="Java_Problems.Topics-The_Set_interface-Strict_superset.main" target="11" />
+      <module name="Java_Problems.Topics-The_Set_interface-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-The_utility_class_Collections-Collection_class_basics.main" target="11" />
+      <module name="Java_Problems.Topics-The_utility_class_Collections-Frequency_of_characters.main" target="11" />
+      <module name="Java_Problems.Topics-The_utility_class_Collections-Sorting_sequences.main" target="11" />
+      <module name="Java_Problems.Topics-The_utility_class_Collections-The_first_index_of_a_sublist.main" target="11" />
+      <module name="Java_Problems.Topics-The_utility_class_Collections-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Thread_management-Calculate_the_number_of_distinct_characters.main" target="11" />
+      <module name="Java_Problems.Topics-Thread_management-Join.main" target="11" />
+      <module name="Java_Problems.Topics-Thread_management-Ordering_the_execution_of_threads.main" target="11" />
+      <module name="Java_Problems.Topics-Thread_management-Sleep.main" target="11" />
+      <module name="Java_Problems.Topics-Thread_management-Summing_with_threads.main" target="11" />
+      <module name="Java_Problems.Topics-Thread_management-The_order_of_lines.main" target="11" />
+      <module name="Java_Problems.Topics-Thread_management-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Thread_management-VeganPizza.main" target="11" />
+      <module name="Java_Problems.Topics-Thread_management-Waiting_for_a_thread.main" target="11" />
+      <module name="Java_Problems.Topics-Thread_synchronization-Countdown_counter.main" target="11" />
+      <module name="Java_Problems.Topics-Thread_synchronization-Initialize_fields_only_once.main" target="11" />
+      <module name="Java_Problems.Topics-Thread_synchronization-Method_inside_the_synchronized_block.main" target="11" />
+      <module name="Java_Problems.Topics-Thread_synchronization-Methods.main" target="11" />
+      <module name="Java_Problems.Topics-Thread_synchronization-Multithreaded_counter.main" target="11" />
+      <module name="Java_Problems.Topics-Thread_synchronization-Synchronize_the_code.main" target="11" />
+      <module name="Java_Problems.Topics-Thread_synchronization-Synchronized_blocks.main" target="11" />
+      <module name="Java_Problems.Topics-Thread_synchronization-Synchronized_keyword.main" target="11" />
+      <module name="Java_Problems.Topics-Thread_synchronization-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Thread_synchronization-Thread-safe_account.main" target="11" />
+      <module name="Java_Problems.Topics-Thread_synchronization-Thread_synchronization_in_Java.main" target="11" />
+      <module name="Java_Problems.Topics-Thread_synchronization-Two_methods,_two_statements.main" target="11" />
+      <module name="Java_Problems.Topics-Thread_synchronization-What_is_incorrect_about_monitors.main" target="11" />
+      <module name="Java_Problems.Topics-Thread_synchronization-What_is_wrong.main" target="11" />
+      <module name="Java_Problems.Topics-Thread_synchronization-Where_it_is_possible_to_write_synchronized.main" target="11" />
+      <module name="Java_Problems.Topics-Threads_as_objects-Getting_current_thread_info.main" target="11" />
+      <module name="Java_Problems.Topics-Threads_as_objects-Is_thread_daemon.main" target="11" />
+      <module name="Java_Problems.Topics-Threads_as_objects-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Threads_as_objects-Thread_name.main" target="11" />
+      <module name="Java_Problems.Topics-Throwing_exceptions-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Throwing_exceptions-Throw_an_IOException.main" target="11" />
+      <module name="Java_Problems.Topics-Throwing_exceptions-Throw_an_unchecked_exception.main" target="11" />
+      <module name="Java_Problems.Topics-toString__-Account.main" target="11" />
+      <module name="Java_Problems.Topics-toString__-Books_as_strings.main" target="11" />
+      <module name="Java_Problems.Topics-toString__-Class_hierarchy.main" target="11" />
+      <module name="Java_Problems.Topics-toString__-Convert_persons_and_patients_to_string.main" target="11" />
+      <module name="Java_Problems.Topics-toString__-Convert_vehicles_and_cars_to_string.main" target="11" />
+      <module name="Java_Problems.Topics-toString__-String_representation.main" target="11" />
+      <module name="Java_Problems.Topics-toString__-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-toString__-Time_as_a_string.main" target="11" />
+      <module name="Java_Problems.Topics-toString__-toString_method.main" target="11" />
+      <module name="Java_Problems.Topics-toString__-Users_as_strings.main" target="11" />
+      <module name="Java_Problems.Topics-Type_Bounds-Number_holder.main" target="11" />
+      <module name="Java_Problems.Topics-Type_Bounds-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-Unit_testing_with_JUnit-An_empty_test.main" target="11" />
+      <module name="Java_Problems.Topics-Unit_testing_with_JUnit-Annotation.main" target="11" />
+      <module name="Java_Problems.Topics-Unit_testing_with_JUnit-Assertion.main" target="11" />
+      <module name="Java_Problems.Topics-Unit_testing_with_JUnit-Failed_assertion.main" target="11" />
+      <module name="Java_Problems.Topics-Unit_testing_with_JUnit-Test_driven_development.main" target="11" />
+      <module name="Java_Problems.Topics-Unit_testing_with_JUnit-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-What_are_collections-Initialize_a_collection.main" target="11" />
+      <module name="Java_Problems.Topics-What_are_collections-Theory.main" target="11" />
+      <module name="Java_Problems.Topics-What_is_an_exception-Avoid_division_by_zero.main" target="11" />
+      <module name="Java_Problems.Topics-What_is_an_exception-Theory.main" target="11" />
+      <module name="Java_Problems.util.main" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
