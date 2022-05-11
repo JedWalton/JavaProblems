@@ -78,6 +78,7 @@
         <module name="Java_Problems.Topics-The_Map_interface-Theory.test" />
         <module name="Java_Problems.Topics-The_Set_interface-Creating_a_set.main" />
         <module name="Java_Problems.Topics-Factory_method-Laptop_store.test" />
+        <module name="Java_Problems.Topics-Iterating_over_arrays-Right_Rotation.test" />
         <module name="Java_Problems.Topics-LocalDate-Print_dates_of_a_year_with_an_offset.main" />
         <module name="Java_Problems.Topics-Anonymous_classes-String_reverser.main" />
         <module name="Java_Problems.Topics-Declaring_a_method-Sum_of_numbers_in_the_range.main" />
@@ -105,6 +106,7 @@
         <module name="Java_Problems.Topics-Generics_and_Object-Correct_the_usage_of_non-generic_class.main" />
         <module name="Java_Problems.Topics-The_utility_class_Collections-Theory.test" />
         <module name="Java_Problems.Topics-ArrayList-Concat_positive_numbers.main" />
+        <module name="Java_Problems.Topics-Iterating_over_arrays-Find_the_sum.main" />
         <module name="Java_Problems.Topics-Hierarchy_of_exceptions-Base_class.main" />
         <module name="Java_Problems.Topics-Regexes_in_programs-Ignoring_spaces.main" />
         <module name="Java_Problems.Topics-Anonymous_classes-An_anonymous_class_with_three_methods.test" />
@@ -952,6 +954,7 @@
         <module name="Java_Problems.Topics-Functional_data_processing_with_streams-Theory.test" />
         <module name="Java_Problems.Topics-Default_methods-Diamond_problem.test" />
         <module name="Java_Problems.Topics-Comparing_dates_and_time-What_is_false.main" />
+        <module name="Java_Problems.Topics-Iterating_over_arrays-Select_loops.main" />
         <module name="Java_Problems.Topics-Functional_data_processing_with_streams-Intermediate_operations.test" />
         <module name="Java_Problems.Topics-Regexes_in_programs-Check_IP_address.test" />
         <module name="Java_Problems.Topics-Static_members-Too_many_cats.test" />
@@ -963,6 +966,7 @@
         <module name="Java_Problems.Topics-Calling_a_method-Area_of_parallelogram.test" />
         <module name="Java_Problems.Topics-Command-Theory.test" />
         <module name="Java_Problems.Topics-Grouping_collectors-Grouping_numbers.main" />
+        <module name="Java_Problems.Topics-Iterating_over_arrays-Select_one_loop.main" />
         <module name="Java_Problems.Topics-Memento-Roll_back.test" />
         <module name="Java_Problems.Topics-Lambda_expressions__1_-Higher-order_functions.test" />
         <module name="Java_Problems.Topics-Standard_functional_interfaces-Select_suitable_interfaces.main" />
@@ -1090,6 +1094,7 @@
         <module name="Java_Problems.Topics-Anonymous_classes-And_always_these_rules.main" />
         <module name="Java_Problems.Topics-LocalDate-The_last_day_of_a_month.test" />
         <module name="Java_Problems.Topics-The_keyword_super-Theory.test" />
+        <module name="Java_Problems.Topics-Iterating_over_arrays-Select_one_loop.test" />
         <module name="Java_Problems.Topics-Getters_and_setters-Book.main" />
         <module name="Java_Problems.Topics-The_utility_class_Collections-Collection_class_basics.main" />
         <module name="Java_Problems.Topics-Lambda_expressions-Parts_of code.test" />
@@ -1100,6 +1105,7 @@
         <module name="Java_Problems.Topics-Hiding_and_overriding-Theory.main" />
         <module name="Java_Problems.Topics-Processing_strings-The_lucky_ticket.test" />
         <module name="Java_Problems.Topics-Default_methods-Default_method's_body_.main" />
+        <module name="Java_Problems.Topics-Iterating_over_arrays-Select_loops.test" />
         <module name="Java_Problems.Topics-Processing_strings-Convert_a_date.main" />
         <module name="Java_Problems.Topics-Branching_statements-Theory.test" />
         <module name="Java_Problems.Topics-Grouping_collectors-Partinioning_and_summing_numbers.test" />
@@ -1123,7 +1129,9 @@
         <module name="Java_Problems.Topics-Parallel_streams-Inverting_streams.main" />
         <module name="Java_Problems.Topics-Parallel_streams-The_ordered_sequence.test" />
         <module name="Java_Problems.Topics-Thread_synchronization-Theory.main" />
+        <module name="Java_Problems.Topics-Iterating_over_arrays-Find_the_sum.test" />
         <module name="Java_Problems.Topics-LocalDate-LocalDate_class.main" />
+        <module name="Java_Problems.Topics-Iterating_over_arrays-Right_Rotation.main" />
         <module name="Java_Problems.Topics-Abstract_class-Users_and_WebSites.main" />
         <module name="Java_Problems.Topics-Unit_testing_with_JUnit-An_empty_test.test" />
         <module name="Java_Problems.Topics-Streams_of_primitives-Theory.main" />
@@ -1509,6 +1517,10 @@
       <module name="Java_Problems.Topics-Introduction_to_generic_programming-Theory.main" target="16" />
       <module name="Java_Problems.Topics-Iterating_over_arrays-Check_if_an_array_contains_two_numbers.main" target="16" />
       <module name="Java_Problems.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.main" target="16" />
+      <module name="Java_Problems.Topics-Iterating_over_arrays-Find_the_sum.main" target="16" />
+      <module name="Java_Problems.Topics-Iterating_over_arrays-Right_Rotation.main" target="16" />
+      <module name="Java_Problems.Topics-Iterating_over_arrays-Select_loops.main" target="16" />
+      <module name="Java_Problems.Topics-Iterating_over_arrays-Select_one_loop.main" target="16" />
       <module name="Java_Problems.Topics-Iterating_over_arrays-Sum_array_elements_greater_than_a_value.main" target="16" />
       <module name="Java_Problems.Topics-Iterating_over_arrays-The_sum_of_array_elements.main" target="16" />
       <module name="Java_Problems.Topics-Iterating_over_arrays-Theory.main" target="16" />
