@@ -106,7 +106,7 @@ class FlightNotFoundException extends RuntimeException {
   <p>For example, in the flight controller:</p> 
   <pre><code class="language-java">@GetMapping("flights/{id}")
 public FlightInfo getFlightInfo(@PathVariable int id) {
-    if (id &gt; flightInfoList.size()) {
+    if (id &gt;= flightInfoList.size()) {
         throw new FlightNotFoundException("Flight not found for id =" + id);
     }
     return flightInfoList.get(id);

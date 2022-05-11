@@ -8,7 +8,7 @@
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="gradleJvm" value="16" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -50,6 +50,13 @@
             <option value="$PROJECT_DIR$/Topics/Branching statements/Even or odd" />
             <option value="$PROJECT_DIR$/Topics/Branching statements/The sequence" />
             <option value="$PROJECT_DIR$/Topics/Branching statements/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Builder" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Builder (1)" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Describe the builder" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Geek Builder" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Robot Builder" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Subway Sandwich" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Theory" />
             <option value="$PROJECT_DIR$/Topics/Calling a method/Area of parallelogram" />
             <option value="$PROJECT_DIR$/Topics/Calling a method/Theory" />
             <option value="$PROJECT_DIR$/Topics/Collectors/ASCII Art" />
@@ -303,6 +310,16 @@
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Sum array elements greater than a value" />
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/The sum of array elements" />
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions (1)/Apply function to all elements" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions (1)/Creating a closure" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions (1)/Expression closure" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions (1)/Expressions" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions (1)/Higher-order functions" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions (1)/Max of two integers" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions (1)/Next even number" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions (1)/Parts of code" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions (1)/Production of all numbers in the range" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions (1)/Theory" />
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Apply function to all elements" />
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Creating a closure" />
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Expression closure" />
@@ -532,9 +549,17 @@
             <option value="$PROJECT_DIR$/Topics/The utility class Collections/Frequency of characters" />
             <option value="$PROJECT_DIR$/Topics/The utility class Collections/Multiple swaps" />
             <option value="$PROJECT_DIR$/Topics/The utility class Collections/Non-existing methods" />
+            <option value="$PROJECT_DIR$/Topics/The utility class Collections/Rotating table" />
             <option value="$PROJECT_DIR$/Topics/The utility class Collections/Sorting sequences" />
             <option value="$PROJECT_DIR$/Topics/The utility class Collections/The first index of a sublist" />
             <option value="$PROJECT_DIR$/Topics/The utility class Collections/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Magic code" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Statements" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/The length of the sequence" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/The number of loop body executions" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/The smallest value" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Theory" />
             <option value="$PROJECT_DIR$/Topics/Thread management/Calculate the number of distinct characters" />
             <option value="$PROJECT_DIR$/Topics/Thread management/Join" />
             <option value="$PROJECT_DIR$/Topics/Thread management/Ordering the execution of threads" />
